@@ -1,0 +1,5519 @@
+[
+  {
+    "S. No":1,
+    "Employee Code":"E0001",
+    "Name":"Akshay Chaturvedi",
+    "Asset ID":"FVFJ3FH6Q6LR",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":2,
+    "Employee Code":"E0010",
+    "Name":"Lakshmi Mahajankatti",
+    "Asset ID":"RLP05880",
+    "Vendor":"RLP"
+  },
+  
+  {
+    "S. No":3,
+    "Employee Code":"E0017",
+    "Name":"Aman Arora",
+    "Asset ID":"PF4K3C5B",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":4,
+    "Employee Code":"E0033",
+    "Name":"Shriya Raina",
+    "Asset ID":"FVHVKXX2J1WK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":5,
+    "Employee Code":"E0044",
+    "Name":"Bharti Priyadarshini Singh",
+    "Asset ID":"KXF3XNJ4TH",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":6,
+    "Employee Code":"E0051",
+    "Name":"Neelansh Kamal",
+    "Asset ID":"NBTLPI524F9438",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":7,
+    "Employee Code":"E0068",
+    "Name":"Rahul Agarwal",
+    "Asset ID":"C02H31X60614",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":8,
+    "Employee Code":"E0115",
+    "Name":"Digvijay Gagneja",
+    "Asset ID":"21HM0077UK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":9,
+    "Employee Code":"E0118",
+    "Name":"Mohd Mushahid Raza Khan",
+    "Asset ID":"FVFJ3F3LQ6LR",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":10,
+    "Employee Code":"E0125",
+    "Name":"P Satya Sravani",
+    "Asset ID":"G95K44JWF0",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":11,
+    "Employee Code":"E0148",
+    "Name":"Sahil Goyal",
+    "Asset ID":"NBTLPi723G8297",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":12,
+    "Employee Code":"E0173",
+    "Name":"Vaibhav Mehta",
+    "Asset ID":"GW9T7RV7MT",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":13,
+    "Employee Code":"E0188",
+    "Name":"Rajender Singh Samant",
+    "Asset ID":"NBTLPi524J9675",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":14,
+    "Employee Code":"E0197",
+    "Name":"Kartik Goel",
+    "Asset ID":"NBTLPi523F8096",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":15,
+    "Employee Code":"E0210",
+    "Name":"Shreedhar ",
+    "Asset ID":"NBTLPi523B7705",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":16,
+    "Employee Code":"E0277",
+    "Name":"Dinesh Kumar Walia",
+    "Asset ID":"NBTLPi722i7276",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":17,
+    "Employee Code":"E0322",
+    "Name":"Bhavna Potdar",
+    "Asset ID":"FVFVLGLCJ1WK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":18,
+    "Employee Code":"E0325",
+    "Name":"Rishi Dedhia",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":19,
+    "Employee Code":"E0336",
+    "Name":"Shabnam Aziz",
+    "Asset ID":"NBTLPi723G8270",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":20,
+    "Employee Code":"E0339",
+    "Name":"Joicy Toppo",
+    "Asset ID":"Exit ",
+    "Vendor":"Exit"
+  },
+  {
+    "S. No":21,
+    "Employee Code":"E0360",
+    "Name":"Akash Dubey",
+    "Asset ID":"NBTLPi523B7693",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":22,
+    "Employee Code":"E0421",
+    "Name":"Rachit Juneja",
+    "Asset ID":"NBTLPi723L8783",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":23,
+    "Employee Code":"E0445",
+    "Name":"Aditya Arora",
+    "Asset ID":"PF4K3C5B",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":24,
+    "Employee Code":"E0453",
+    "Name":"Rashmi Patel",
+    "Asset ID":"NBTLPi523B7691",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":25,
+    "Employee Code":"E0461",
+    "Name":"Saloni Kothari",
+    "Asset ID":"NBTLPi525C7808",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":26,
+    "Employee Code":"E0469",
+    "Name":"Aparna Ahuja",
+    "Asset ID":"NBTLPi522D6822",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":27,
+    "Employee Code":"E0470",
+    "Name":"Tejas Arora",
+    "Asset ID":"RLP05685",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":28,
+    "Employee Code":"E0471",
+    "Name":"Durgesh Swarnkar",
+    "Asset ID":"RLP07680",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":29,
+    "Employee Code":"E0499",
+    "Name":"Ayush Rajesh",
+    "Asset ID":"NBTLPi522F7111",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":30,
+    "Employee Code":"E0502",
+    "Name":"Avneesh Suri",
+    "Asset ID":"NBTLPi522A6232",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":31,
+    "Employee Code":"E0506",
+    "Name":"Sudipta Biswas",
+    "Asset ID":"PF2XFYH2",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":32,
+    "Employee Code":"E0507",
+    "Name":"Mayur Bajaj",
+    "Asset ID":"RLP05674",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":33,
+    "Employee Code":"E1054",
+    "Name":"Shilpa",
+    "Asset ID":"2ZSNPN2",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":34,
+    "Employee Code":"E0575",
+    "Name":"Tresa V Nair",
+    "Asset ID":"NBTLPi522F7153",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":35,
+    "Employee Code":"E0603",
+    "Name":"Isha Sharma",
+    "Asset ID":"RLP05553",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":36,
+    "Employee Code":"E0650",
+    "Name":"Fariha Akhtar",
+    "Asset ID":"NBTLPi522D6802",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":38,
+    "Employee Code":"E0662",
+    "Name":"Amitoj Kaur",
+    "Asset ID":"NBTLPI724D9145",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":39,
+    "Employee Code":"E0676",
+    "Name":"Deeksha Dhanai",
+    "Asset ID":"RLP02748",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":40,
+    "Employee Code":"E0684",
+    "Name":"Abhinav Chamoli",
+    "Asset ID":"FVFVLGKFJ1WK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":41,
+    "Employee Code":"E0692",
+    "Name":"Naina Verma",
+    "Asset ID":"CWV0034",
+    "Vendor":"Capital World"
+  },
+  {
+    "S. No":42,
+    "Employee Code":"E0695",
+    "Name":"Siddharth Saha ",
+    "Asset ID":"NBTLPi724J9717",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":43,
+    "Employee Code":"E0705",
+    "Name":"Nithesh S",
+    "Asset ID":"C02H335806L4",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":44,
+    "Employee Code":"E0708",
+    "Name":"Harshdeep Arora",
+    "Asset ID":"NBTLPi523B7771",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":45,
+    "Employee Code":"E0709",
+    "Name":"Yitika Mittal",
+    "Asset ID":"RLP05428",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":46,
+    "Employee Code":"E0724",
+    "Name":"Ankit Kumar Nemani",
+    "Asset ID":"RLP08024",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":47,
+    "Employee Code":"E0725",
+    "Name":"Shivani Gurjar",
+    "Asset ID":"NBTLPi521B5035",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":48,
+    "Employee Code":"E0735",
+    "Name":"Divyanshu Rawat",
+    "Asset ID":"GCOTRUE1071",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":49,
+    "Employee Code":"E0738",
+    "Name":"Vivek Kumar",
+    "Asset ID":"NBTLPi521H4862",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":50,
+    "Employee Code":"E0749",
+    "Name":"Paras Arora",
+    "Asset ID":"NBTLPi521H4898",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":51,
+    "Employee Code":"E0754",
+    "Name":"Harshita Rawat",
+    "Asset ID":"YASHTRUE1482",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":52,
+    "Employee Code":"E0777",
+    "Name":"Mayank Kumar",
+    "Asset ID":"NBTLPi523B7758",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":53,
+    "Employee Code":"E2188",
+    "Name":"Mayank Vishnoi ",
+    "Asset ID":"NBTLPi522i7391",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":54,
+    "Employee Code":"E0793",
+    "Name":"Kunal Nagi",
+    "Asset ID":"NBTLPi523B7727",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":55,
+    "Employee Code":"E0810",
+    "Name":"Mukul Gautam",
+    "Asset ID":"FVFLGKHJ1WK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":56,
+    "Employee Code":"E0820",
+    "Name":"Riya Marwah",
+    "Asset ID":"NBTLPi521H4987",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":57,
+    "Employee Code":"E0824",
+    "Name":"Priyansh Singh Solanki",
+    "Asset ID":"NBTLPi523F8218",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":58,
+    "Employee Code":"E0836",
+    "Name":"Riya Shakya",
+    "Asset ID":"RLP07343",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":59,
+    "Employee Code":"E0878",
+    "Name":"Pooja Saini",
+    "Asset ID":"RLP00548",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":60,
+    "Employee Code":"E0894",
+    "Name":"Asher Sahil Tinku",
+    "Asset ID":"RLP05393",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":61,
+    "Employee Code":"E0910",
+    "Name":"Gaitri Murmu",
+    "Asset ID":"NBTLPi522D6672",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":62,
+    "Employee Code":"E0912",
+    "Name":"Kushagra Srivastava",
+    "Asset ID":"NBTLPi521F4704",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":63,
+    "Employee Code":"E0916",
+    "Name":"Preeti Gupta",
+    "Asset ID":"NBTLPi521C4102",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":64,
+    "Employee Code":"E3392",
+    "Name":"Shashwat Mishra",
+    "Asset ID":"FC96090ZRK",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":65,
+    "Employee Code":"E0975",
+    "Name":"Harsha Sudan",
+    "Asset ID":"NBTLPi523E8022",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":66,
+    "Employee Code":"E0984",
+    "Name":"Nishant Bhatia",
+    "Asset ID":"HL6GLX7JMY",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":68,
+    "Employee Code":"E0993",
+    "Name":"Gaurav Tripathi",
+    "Asset ID":"NBTLPi522D6743",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":69,
+    "Employee Code":"E1038",
+    "Name":"Karan Bhardwaj ",
+    "Asset ID":"NBTLPi522F7149",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":70,
+    "Employee Code":"E3686",
+    "Name":"Deepa Bisht",
+    "Asset ID":"RLP04952",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":71,
+    "Employee Code":"E1059",
+    "Name":"Priya Singh",
+    "Asset ID":"RLP02480",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":72,
+    "Employee Code":"E1139",
+    "Name":"Swati Sharma",
+    "Asset ID":"RLP09024",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":73,
+    "Employee Code":"E1181",
+    "Name":"Pulkit Chrungoo",
+    "Asset ID":"NBTLPi523F8208",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":74,
+    "Employee Code":"E3541",
+    "Name":"Ani V Nair",
+    "Asset ID":"PCIG6NRV",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":75,
+    "Employee Code":"E1218",
+    "Name":"Nitin Kumar",
+    "Asset ID":"NBTLPi522F7172",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":76,
+    "Employee Code":"E1276",
+    "Name":"Sudhanshu Kaila",
+    "Asset ID":"NBTLPi519J2387",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":77,
+    "Employee Code":"E1283",
+    "Name":"Aalok Aashish Kachhap",
+    "Asset ID":"NBTLPi522D6767",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":78,
+    "Employee Code":"E1299",
+    "Name":"Lakshay Gupta",
+    "Asset ID":"NBTLPi522i7384",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":79,
+    "Employee Code":"E1306",
+    "Name":"Kavya Sahni",
+    "Asset ID":"NBTLPI524B8852",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":80,
+    "Employee Code":"E1307",
+    "Name":"Heena Nag",
+    "Asset ID":"RLP07712",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":81,
+    "Employee Code":"E1313",
+    "Name":"Utkarsh Singh ",
+    "Asset ID":"RLP07307",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":82,
+    "Employee Code":"E1327",
+    "Name":"Deepak Khanna",
+    "Asset ID":"NBTLPI524F9412",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":83,
+    "Employee Code":"E1329",
+    "Name":"Swetabh Sonik",
+    "Asset ID":"FVFLGK0J1WK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":84,
+    "Employee Code":"E1342",
+    "Name":"Anuj Jadaun",
+    "Asset ID":"RLP05482",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":85,
+    "Employee Code":"E1352",
+    "Name":"Rajat Gupta",
+    "Asset ID":"NBTLPI724B8973",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":86,
+    "Employee Code":"E1354",
+    "Name":"Akash Saxena ",
+    "Asset ID":"FVFFC28EQ05F",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":87,
+    "Employee Code":"E1359",
+    "Name":"Chitra",
+    "Asset ID":"NBTLPi522D6783",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":88,
+    "Employee Code":"E1370",
+    "Name":"Pradeep Singh Chauhan",
+    "Asset ID":"NBTLPi523B7613",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":89,
+    "Employee Code":"E1373",
+    "Name":"Kapil",
+    "Asset ID":"NBTLPi522D6674",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":90,
+    "Employee Code":"E1378",
+    "Name":"Jyoti Arora",
+    "Asset ID":"NbtlpI723b7636",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":91,
+    "Employee Code":"E1389",
+    "Name":"Tanu Kashyap",
+    "Asset ID":"NBTLPi722i7277",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":92,
+    "Employee Code":"E1401",
+    "Name":"Shanawaz Khan",
+    "Asset ID":"NBTLPi523B7700",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":93,
+    "Employee Code":"E1442",
+    "Name":"Ramandeep Singh",
+    "Asset ID":"NBTLPI524F9473",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":94,
+    "Employee Code":"E1443",
+    "Name":"Kaushiki Rawat",
+    "Asset ID":"NBTLPi723E7996",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":95,
+    "Employee Code":"E1468",
+    "Name":"Manvi Singh",
+    "Asset ID":"NBTLPI524E9202",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":96,
+    "Employee Code":"E2034",
+    "Name":"Shravan Gautam",
+    "Asset ID":"NBTLPi523B7721",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":97,
+    "Employee Code":"E3225",
+    "Name":"Kosuri Venugopal",
+    "Asset ID":"RLP04605",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":98,
+    "Employee Code":"E1499",
+    "Name":"Neha Wadhwani",
+    "Asset ID":"NBTLPi522F7130",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":99,
+    "Employee Code":"E1504",
+    "Name":"Saqib Majeed Lone",
+    "Asset ID":"NBTLPi523A7540",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":100,
+    "Employee Code":"E1506",
+    "Name":"Umang Sharma",
+    "Asset ID":"NBTLPi523B7704",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":101,
+    "Employee Code":"E1559",
+    "Name":"Prashant Kumar Bhardwaj",
+    "Asset ID":"2K8J5H2",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":102,
+    "Employee Code":"E2819",
+    "Name":"Konapala Sai Keertan Patro",
+    "Asset ID":"MCQHQGD4M7",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":103,
+    "Employee Code":"E1563",
+    "Name":"Yash Hora",
+    "Asset ID":"NBTLPi522E6985",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":104,
+    "Employee Code":"E1577",
+    "Name":"Kaveri Kumari",
+    "Asset ID":"NBTLPI520C3023",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":105,
+    "Employee Code":"E2683",
+    "Name":"Yash Jain",
+    "Asset ID":"RLP05390",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":106,
+    "Employee Code":"E1609",
+    "Name":"Shashank Singh Sengar",
+    "Asset ID":"RLP04918",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":107,
+    "Employee Code":"E1611",
+    "Name":"Surbhi Malhotra ",
+    "Asset ID":"NBTLPi522E6875",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":108,
+    "Employee Code":"E1618",
+    "Name":"Ketan Sonkar",
+    "Asset ID":"RLP05696",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":109,
+    "Employee Code":"E1622",
+    "Name":"Siddharth",
+    "Asset ID":"RLP02487",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":110,
+    "Employee Code":"E1627",
+    "Name":"Jatin Kumar",
+    "Asset ID":"NBTLPi725E10579",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":111,
+    "Employee Code":"E1633",
+    "Name":"Deepti Saini ",
+    "Asset ID":"NBTLPi521H4868",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":112,
+    "Employee Code":"E1640",
+    "Name":"Nikhil Tiwari",
+    "Asset ID":"NBTLPi522A6116",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":113,
+    "Employee Code":"E3694",
+    "Name":"Amir Nafees",
+    "Asset ID":"PF367Z4D",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":114,
+    "Employee Code":"E1688",
+    "Name":"Krishna Chandra Sharma",
+    "Asset ID":"NBTLPi521B5055",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":115,
+    "Employee Code":"E1697",
+    "Name":"Priya Jha",
+    "Asset ID":"RLP03366",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":116,
+    "Employee Code":"E1698",
+    "Name":"Deepanshu Kushwaha",
+    "Asset ID":"NBTLPi521B5071",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":117,
+    "Employee Code":"E1704",
+    "Name":"Shraddha Gupta ",
+    "Asset ID":"YASHTRUE1483",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":118,
+    "Employee Code":"E1716",
+    "Name":"Saurav Kumar Singh ",
+    "Asset ID":"NBTLPI523I8446",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":119,
+    "Employee Code":"E1728",
+    "Name":"Suraj Gupta",
+    "Asset ID":"NBTLPi722K7461",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":120,
+    "Employee Code":"E1749",
+    "Name":"Muskan Umar",
+    "Asset ID":"RLP05512",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":121,
+    "Employee Code":"E1776",
+    "Name":"Adapala Anil Kumar",
+    "Asset ID":"RLP07088",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":122,
+    "Employee Code":"E1796",
+    "Name":"Kamran Zaidi",
+    "Asset ID":"NBTLPi724i9652",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":123,
+    "Employee Code":"E1840",
+    "Name":"Shafein Tauheid",
+    "Asset ID":"RLP05592",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":124,
+    "Employee Code":"E1848",
+    "Name":"Rhitik Singh",
+    "Asset ID":"NBTLPi523B7669",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":125,
+    "Employee Code":"E1861",
+    "Name":"Jyoti Gautam",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":126,
+    "Employee Code":"E1870",
+    "Name":"Abhishek Giri",
+    "Asset ID":"RLP05391",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":127,
+    "Employee Code":"E1890",
+    "Name":"Ayushi Kushwaha",
+    "Asset ID":"NBTLPI524B8788",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":128,
+    "Employee Code":"E1892",
+    "Name":"Shivam Sharma",
+    "Asset ID":"NBTLPi721H5220",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":129,
+    "Employee Code":"E1906",
+    "Name":"Parikshit Shrivastava ",
+    "Asset ID":"RLP09028",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":130,
+    "Employee Code":"E1908",
+    "Name":"Kartikey Kedia",
+    "Asset ID":"RLP05655",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":131,
+    "Employee Code":"E1909",
+    "Name":"Srishti Prasad ",
+    "Asset ID":"RLP05522",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":132,
+    "Employee Code":"E1912",
+    "Name":"Gautam Makhija",
+    "Asset ID":"NBTLPi523F8146",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":133,
+    "Employee Code":"E1918",
+    "Name":"Mayank Rawat",
+    "Asset ID":"NBTLPi523B7710",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":134,
+    "Employee Code":"E1923",
+    "Name":"Ayushi Singh ",
+    "Asset ID":"YASHTRUE1446",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":135,
+    "Employee Code":"E1930",
+    "Name":"Aditya Saini ",
+    "Asset ID":"RLP05260",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":136,
+    "Employee Code":"E1943",
+    "Name":"Neha Tyagi ",
+    "Asset ID":"FVFJ39XEQ6LR",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":137,
+    "Employee Code":"E1956",
+    "Name":"Madhavi Gaur",
+    "Asset ID":"NBTLPi522D6667",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":138,
+    "Employee Code":"E1957",
+    "Name":"Sunny",
+    "Asset ID":"RLP05602",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":139,
+    "Employee Code":"E1958",
+    "Name":"Vanshika Upadhyay ",
+    "Asset ID":"NBTLPi523B7712",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":140,
+    "Employee Code":"E1963",
+    "Name":"Arham Husain",
+    "Asset ID":"NBTLPi522D6789",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":141,
+    "Employee Code":"E1967",
+    "Name":"Prabhat Tripathi ",
+    "Asset ID":"RLP05573",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":142,
+    "Employee Code":"E1978",
+    "Name":"Mona Devi",
+    "Asset ID":"NBTLPi522D6816",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":143,
+    "Employee Code":"E2003",
+    "Name":"Avantika Chaudhary",
+    "Asset ID":"NBTLPi522i7313",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":144,
+    "Employee Code":"E2005",
+    "Name":"Amol Garg",
+    "Asset ID":"GM9VW42RXP",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":145,
+    "Employee Code":"E2027",
+    "Name":"Kanu Priya",
+    "Asset ID":"NBTLPi521L5707",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":146,
+    "Employee Code":"E2028",
+    "Name":"Advyit Varma",
+    "Asset ID":"NBTLPi722J7412",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":147,
+    "Employee Code":"E3047",
+    "Name":"Rayalapuram Bhargav",
+    "Asset ID":"RLP07468",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":148,
+    "Employee Code":"E2040",
+    "Name":"Muskan Rana",
+    "Asset ID":"NBTLPi522D6628",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":149,
+    "Employee Code":"E2051",
+    "Name":"Parth Narang",
+    "Asset ID":"QF949X5D6X",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":150,
+    "Employee Code":"E2053",
+    "Name":"Anurag Sharma",
+    "Asset ID":"RLP04047",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":151,
+    "Employee Code":"E2057",
+    "Name":"Garvit Jhawar",
+    "Asset ID":"FVFGM6GGQ05P",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":152,
+    "Employee Code":"E2072",
+    "Name":"Blessy George ",
+    "Asset ID":"RLP05536",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":153,
+    "Employee Code":"E2110",
+    "Name":"Harshita ",
+    "Asset ID":"NBTLPi523B7754",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":154,
+    "Employee Code":"E2119",
+    "Name":"Shreya Singh Sisodia",
+    "Asset ID":"NBTLPI523J8629",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":155,
+    "Employee Code":"E2122",
+    "Name":"Ankita Singh",
+    "Asset ID":"RLP04777",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":156,
+    "Employee Code":"E2132",
+    "Name":"Sachin Kumar Singh",
+    "Asset ID":"RLP05827",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":157,
+    "Employee Code":"E2133",
+    "Name":"Monika Gupta",
+    "Asset ID":"NBTLPi522D6819",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":158,
+    "Employee Code":"E2138",
+    "Name":"Neeraj",
+    "Asset ID":"NBTLPI523J8585",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":159,
+    "Employee Code":"E2146",
+    "Name":"Sheikh Farhan ",
+    "Asset ID":"RLP06773",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":160,
+    "Employee Code":"E2148",
+    "Name":"Ashish Saxena",
+    "Asset ID":"RLP02676",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":161,
+    "Employee Code":"E2154",
+    "Name":"Utkarsh",
+    "Asset ID":"NBTLPi522D6726",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":162,
+    "Employee Code":"E2155",
+    "Name":"Ambreena Fatima",
+    "Asset ID":"RLP05599",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":163,
+    "Employee Code":"E2160",
+    "Name":"Diksha Dixit ",
+    "Asset ID":"NBTLPI524B8789",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":164,
+    "Employee Code":"E2176",
+    "Name":"Jahnavi Sharma ",
+    "Asset ID":"NBTLPi522F7135",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":165,
+    "Employee Code":"E2183",
+    "Name":"Vartika Singh",
+    "Asset ID":"NBTLPi523B7668",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":166,
+    "Employee Code":"E3076",
+    "Name":"Davinder Singh",
+    "Asset ID":"NBTLPi520C3035",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":167,
+    "Employee Code":"E2205",
+    "Name":"Shashank Singh Yadav",
+    "Asset ID":"RLP04936",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":168,
+    "Employee Code":"E2211",
+    "Name":"Dirgha Singh",
+    "Asset ID":"C02FF5THQ6L5",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":169,
+    "Employee Code":"E2215",
+    "Name":"Harshita Kashyap",
+    "Asset ID":"NBTLPi523B7760",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":170,
+    "Employee Code":"E2219",
+    "Name":"Divya",
+    "Asset ID":"NBTLPI523I8456",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":171,
+    "Employee Code":"E2220",
+    "Name":"Nancy Kinger ",
+    "Asset ID":"NBTLPI524B8794",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":172,
+    "Employee Code":"E2223",
+    "Name":"Jagat Bisht",
+    "Asset ID":"RLP05586",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":173,
+    "Employee Code":"E2244",
+    "Name":"Radha Panchal",
+    "Asset ID":"RLP05667",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":174,
+    "Employee Code":"E2251",
+    "Name":"Vishesh Garg",
+    "Asset ID":"NBTLPi522D6785",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":175,
+    "Employee Code":"E2255",
+    "Name":"Diksha Gusain",
+    "Asset ID":"RLP05659",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":176,
+    "Employee Code":"E2269",
+    "Name":"Mayank Baluni",
+    "Asset ID":"RLP05757",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":177,
+    "Employee Code":"E2273",
+    "Name":"Vishal Sharma",
+    "Asset ID":"NBTLPi523C7823",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":178,
+    "Employee Code":"E3722",
+    "Name":"Shonit Kumar Singh",
+    "Asset ID":"RLP09594",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":179,
+    "Employee Code":"E2322",
+    "Name":"Laxmi",
+    "Asset ID":"NBTLPi522F7085",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":180,
+    "Employee Code":"E2329",
+    "Name":"Venkatesh Shreyas Nc",
+    "Asset ID":"RLP05815",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":181,
+    "Employee Code":"E2334",
+    "Name":"Unnati Srivastava",
+    "Asset ID":"NBTLPi522E6895",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":182,
+    "Employee Code":"E2335",
+    "Name":"Zanker Rajeshkumar Rajnikant",
+    "Asset ID":"RLP03327",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":183,
+    "Employee Code":"E2345",
+    "Name":"Anuj Kushwaha ",
+    "Asset ID":"RLP05570",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":184,
+    "Employee Code":"E2367",
+    "Name":"Itin Rastogi ",
+    "Asset ID":"YASHTRUE1464",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":185,
+    "Employee Code":"E2373",
+    "Name":"Aditya Gupta",
+    "Asset ID":"NBTLPi521C4129",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":186,
+    "Employee Code":"E2375",
+    "Name":"Ankit Raj",
+    "Asset ID":"FVFGL2V6Q05P",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":187,
+    "Employee Code":"E2401",
+    "Name":"Ayush Gupta",
+    "Asset ID":"NBTLPi522D6675",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":188,
+    "Employee Code":"E2407",
+    "Name":"Subham Kumar Shrivastwa",
+    "Asset ID":"RLP07321",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":189,
+    "Employee Code":"E2409",
+    "Name":"Shikha Singh ",
+    "Asset ID":"RLP03836",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":190,
+    "Employee Code":"E2411",
+    "Name":"Saurav Taparia",
+    "Asset ID":"NBTLPi522D6781",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":191,
+    "Employee Code":"E2415",
+    "Name":"Monish Ahmed Ansari",
+    "Asset ID":"NBTLPi723G8293",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":192,
+    "Employee Code":"E2418",
+    "Name":"Varsha Thakur ",
+    "Asset ID":"NBTLPi521B5059",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":193,
+    "Employee Code":"E2427",
+    "Name":"Anmol Bajaj",
+    "Asset ID":"NBTLPi524J9710",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":194,
+    "Employee Code":"E2436",
+    "Name":"Prakhar Srivastava",
+    "Asset ID":"C02H3F0YQ6L4",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":195,
+    "Employee Code":"E2441",
+    "Name":"Aviroop Sengupta",
+    "Asset ID":"NBTLPi521L5615",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":196,
+    "Employee Code":"E2471",
+    "Name":"Nitish Kumar",
+    "Asset ID":"GTVXTR6TC",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":197,
+    "Employee Code":"E2474",
+    "Name":"Vibhor Singh",
+    "Asset ID":"NBTLPi522E6879",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":198,
+    "Employee Code":"E2485",
+    "Name":"Purva Singh",
+    "Asset ID":"NBTLPI524E9372",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":200,
+    "Employee Code":"E2495",
+    "Name":"Nilutpal Talukdar",
+    "Asset ID":"RLP07345",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":201,
+    "Employee Code":"E2497",
+    "Name":"Md Hasnain Ali Ansari ",
+    "Asset ID":"NBTLPi522D6696",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":202,
+    "Employee Code":"E2510",
+    "Name":"Swaransh Saxena",
+    "Asset ID":"RLP05562",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":203,
+    "Employee Code":"E2543",
+    "Name":"Rishab Tenguria ",
+    "Asset ID":"RLP04639",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":204,
+    "Employee Code":"E2548",
+    "Name":"Nupur Chatterjee ",
+    "Asset ID":"RLP05534",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":205,
+    "Employee Code":"E2552",
+    "Name":"Karima Kumari",
+    "Asset ID":"NBTLPi522D6836",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":206,
+    "Employee Code":"E2570",
+    "Name":"Uddhav Gautam",
+    "Asset ID":"NBTLPi523B7776",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":207,
+    "Employee Code":"E2571",
+    "Name":"Athira S Nair",
+    "Asset ID":"NBTLPi522i7320",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":208,
+    "Employee Code":"E3221",
+    "Name":"Nippun Sharma",
+    "Asset ID":"5CG0230VGC",
+    "Vendor":"in chandigarh"
+  },
+  {
+    "S. No":209,
+    "Employee Code":"E2582",
+    "Name":"Ritesh Kumar ",
+    "Asset ID":"RLP09433",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":210,
+    "Employee Code":"E2587",
+    "Name":"Pallerla Ramakanth Reddy",
+    "Asset ID":"RLP05698",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":211,
+    "Employee Code":"E2590",
+    "Name":"Mamta Ojha",
+    "Asset ID":"RLP05615",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":212,
+    "Employee Code":"E2592",
+    "Name":"Kirti Gupta",
+    "Asset ID":"NBTLPi522F7082",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":213,
+    "Employee Code":"E2593",
+    "Name":"Varsha Baliyan",
+    "Asset ID":"NBTLPI524F9432",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":214,
+    "Employee Code":"E2968",
+    "Name":"Utkarsh Srivastav",
+    "Asset ID":"PF2YER0T",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":215,
+    "Employee Code":"E2602",
+    "Name":"Gaurav Kumar",
+    "Asset ID":"NBTLPi521H4928",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":216,
+    "Employee Code":"E2603",
+    "Name":"Chakravarthula Narayana Swami ",
+    "Asset ID":"RLP05598",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":217,
+    "Employee Code":"E2608",
+    "Name":"Raghuram S",
+    "Asset ID":"RLP04787",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":218,
+    "Employee Code":"E2625",
+    "Name":"Annamika Singh ",
+    "Asset ID":"RLP05651",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":219,
+    "Employee Code":"E2626",
+    "Name":"Tanishqua Chopra",
+    "Asset ID":"NBTLPi522D6808",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":220,
+    "Employee Code":"E2630",
+    "Name":"Khushi Thakur ",
+    "Asset ID":"NBTLPI523I8430",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":221,
+    "Employee Code":"E2632",
+    "Name":"Sanchit Duggal",
+    "Asset ID":"RLP06425",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":222,
+    "Employee Code":"E2653",
+    "Name":"Ayush Kumar Mandal",
+    "Asset ID":"HKHQFH2",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":223,
+    "Employee Code":"E2659",
+    "Name":"Mohd Irfan ",
+    "Asset ID":"PF14JCHE",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":224,
+    "Employee Code":"E3409",
+    "Name":"Lakshya Bandil",
+    "Asset ID":"NBTLPi523J8584",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":225,
+    "Employee Code":"E3715",
+    "Name":"Vishal Sharma",
+    "Asset ID":"PCIG6PBV",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":226,
+    "Employee Code":"E2691",
+    "Name":"Puneet Kumar Chauhan",
+    "Asset ID":"5CD8328X2N",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":227,
+    "Employee Code":"E2694",
+    "Name":"Manjeet Yadav",
+    "Asset ID":"CWV0033",
+    "Vendor":"Capital World"
+  },
+  {
+    "S. No":228,
+    "Employee Code":"E2699",
+    "Name":"Ritika Lakhwani ",
+    "Asset ID":"NbtlpI521c4138",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":229,
+    "Employee Code":"E2701",
+    "Name":"Deepak Kumar Roy",
+    "Asset ID":"CWV0023",
+    "Vendor":"Capital World"
+  },
+  {
+    "S. No":230,
+    "Employee Code":"E2710",
+    "Name":"Nikita Sharma ",
+    "Asset ID":"NBTLPi522F7143",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":231,
+    "Employee Code":"E2712",
+    "Name":"Suman Marapelle",
+    "Asset ID":"RLP05489",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":232,
+    "Employee Code":"E3773",
+    "Name":"Shivani Chaudhary",
+    "Asset ID":"PC1G84RM",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":233,
+    "Employee Code":"E2716",
+    "Name":"Ritika Bararia",
+    "Asset ID":"CWV0032",
+    "Vendor":"Capital World"
+  },
+  {
+    "S. No":234,
+    "Employee Code":"E2725",
+    "Name":"Sachi Priya",
+    "Asset ID":"NBTLPI523I8422",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":235,
+    "Employee Code":"E2731",
+    "Name":"Girik Bajaj",
+    "Asset ID":"FVFGM6EGQ05P",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":236,
+    "Employee Code":"E2733",
+    "Name":"Tushar Dutta",
+    "Asset ID":"NBTLPI523I8445",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":237,
+    "Employee Code":"E2736",
+    "Name":"Mitesh Jadhav",
+    "Asset ID":"RLP05908",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":238,
+    "Employee Code":"E2741",
+    "Name":"Urvashi Mittal",
+    "Asset ID":"NBTLPi522F7129",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":239,
+    "Employee Code":"E2750",
+    "Name":"Abhey Mishra",
+    "Asset ID":"NBTLPi522E6878",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":240,
+    "Employee Code":"E2752",
+    "Name":"Surbhi Singh",
+    "Asset ID":"NBTLPi522D6744",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":241,
+    "Employee Code":"E1484",
+    "Name":"Jatin Arora",
+    "Asset ID":"PCI9879D",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":242,
+    "Employee Code":"E2755",
+    "Name":"Sarthak Negi",
+    "Asset ID":"C02FX17VQ6L5",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":243,
+    "Employee Code":"E2756",
+    "Name":"Mohit Vashishtha",
+    "Asset ID":"NBTLPI523I8435",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":244,
+    "Employee Code":"E2757",
+    "Name":"Shikha Martolia",
+    "Asset ID":"NBTLPI523I8432",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":245,
+    "Employee Code":"E2948",
+    "Name":"Harsh Soni",
+    "Asset ID":"NBTLPi523J8600",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":246,
+    "Employee Code":"E2763",
+    "Name":"Ravi Singh",
+    "Asset ID":"NBTLPi522D6846",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":247,
+    "Employee Code":"E2764",
+    "Name":"Himanshu Rawat",
+    "Asset ID":"NBTLPi522J7447",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":248,
+    "Employee Code":"E2767",
+    "Name":"Swati Rawat",
+    "Asset ID":"RLP05708",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":249,
+    "Employee Code":"E2768",
+    "Name":"Arya Verma",
+    "Asset ID":"NBTLPi523F8156",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":250,
+    "Employee Code":"E2775",
+    "Name":"Pratishtha",
+    "Asset ID":"NBTLPi523F8165",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":251,
+    "Employee Code":"E3419",
+    "Name":"Pothagani Ramachandraiah",
+    "Asset ID":"RLP04932",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":252,
+    "Employee Code":"E2815",
+    "Name":"Mohit Uniyal",
+    "Asset ID":"RLP04586",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":253,
+    "Employee Code":"E3540",
+    "Name":"Sumita Chawla",
+    "Asset ID":"PClG85YS",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":254,
+    "Employee Code":"E2820",
+    "Name":"Ananya Gupta",
+    "Asset ID":"CWV0011",
+    "Vendor":"Capital World"
+  },
+  {
+    "S. No":255,
+    "Employee Code":"E2829",
+    "Name":"Juni Sharma",
+    "Asset ID":"NBTLPI524F9429",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":256,
+    "Employee Code":"E2831",
+    "Name":"Suraj Khanna",
+    "Asset ID":"NBTLPi521H4912",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":257,
+    "Employee Code":"E2837",
+    "Name":"Ramish Jafery",
+    "Asset ID":"PCIG6P68",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":258,
+    "Employee Code":"E2838",
+    "Name":"Khushi Bajaj",
+    "Asset ID":"RLP05670",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":259,
+    "Employee Code":"E2840",
+    "Name":"Amit Rajput",
+    "Asset ID":"NBTLPi522A6117",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":260,
+    "Employee Code":"E2844",
+    "Name":"Arnav Singh",
+    "Asset ID":"FVFGM6D4Q05P",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":261,
+    "Employee Code":"E2847",
+    "Name":"Deepika Joshi",
+    "Asset ID":"NBTLPI523I8391",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":262,
+    "Employee Code":"E2851",
+    "Name":"Aman Kumar",
+    "Asset ID":"RLP09126",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":263,
+    "Employee Code":"E2857",
+    "Name":"Unnati Singh",
+    "Asset ID":"NBTLPi521H4906",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":264,
+    "Employee Code":"E2858",
+    "Name":"Vaishnavi Dubey",
+    "Asset ID":"NBTLPi523A7552",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":265,
+    "Employee Code":"E2863",
+    "Name":"Amritanjali Singh",
+    "Asset ID":"RLP05440",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":266,
+    "Employee Code":"E2866",
+    "Name":"Mohit Rajak",
+    "Asset ID":"NBTLPi523C7818",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":267,
+    "Employee Code":"E2868",
+    "Name":"Devraj Sircar",
+    "Asset ID":"NBTLPi723E8182",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":268,
+    "Employee Code":"E2871",
+    "Name":"Osama Jafery",
+    "Asset ID":"NBTLPi522E7041",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":269,
+    "Employee Code":"E2877",
+    "Name":"Saurav Kumar",
+    "Asset ID":"RLP05396",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":270,
+    "Employee Code":"E2880",
+    "Name":"Rituj Bhatnagar",
+    "Asset ID":"RLP07340",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":271,
+    "Employee Code":"E2881",
+    "Name":"Darpan Bahal",
+    "Asset ID":"NBTLPi522D6826",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":272,
+    "Employee Code":"E2894",
+    "Name":"Ashwin Gupta",
+    "Asset ID":"RLP07338",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":273,
+    "Employee Code":"E2897",
+    "Name":"Sakshi Rana",
+    "Asset ID":"FIRMTRUE1554",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":274,
+    "Employee Code":"E2901",
+    "Name":"Amandeep Singh",
+    "Asset ID":"RLP02297",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":275,
+    "Employee Code":"E2903",
+    "Name":"Prateek",
+    "Asset ID":"NBTLPi522D6777",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":276,
+    "Employee Code":"E2912",
+    "Name":"Kriti",
+    "Asset ID":"NBTLPi522i7321",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":277,
+    "Employee Code":"E2919",
+    "Name":"Rohan Majumdar",
+    "Asset ID":"YASHTRUE1425",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":278,
+    "Employee Code":"E2923",
+    "Name":"Bhaskar Singh",
+    "Asset ID":"RLP05663",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":279,
+    "Employee Code":"E2924",
+    "Name":"Mohammed Sohail Saifi",
+    "Asset ID":"RLP04776",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":280,
+    "Employee Code":"E2925",
+    "Name":"Chhaya Tyagi",
+    "Asset ID":"RLP09435",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":281,
+    "Employee Code":"E2932",
+    "Name":"Rashi Bhatnagar",
+    "Asset ID":"RLP05558",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":282,
+    "Employee Code":"E2936",
+    "Name":"Ashish Dhawan",
+    "Asset ID":"NBTLPi522D6673",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":283,
+    "Employee Code":"E2940",
+    "Name":"B Balaji",
+    "Asset ID":"RLP06763",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":284,
+    "Employee Code":"E2944",
+    "Name":"Janvikumari Damberbahadur",
+    "Asset ID":"RLP04753",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":285,
+    "Employee Code":"E2946",
+    "Name":"Kandiboina Raja",
+    "Asset ID":"RLP05743",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":286,
+    "Employee Code":"E3724",
+    "Name":"Rohan Singh Bhagwan Singh Kathait",
+    "Asset ID":"NBTLPi723G8297",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":287,
+    "Employee Code":"E2956",
+    "Name":"Simran Agarwal",
+    "Asset ID":"RLP07865",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":288,
+    "Employee Code":"E2960",
+    "Name":"Aditi Srivastava",
+    "Asset ID":"NBTLPI523J8619",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":289,
+    "Employee Code":"E2962",
+    "Name":"Lalit Kumar",
+    "Asset ID":"NBTLPi523F8173",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":290,
+    "Employee Code":"E2963",
+    "Name":"Harsh Chauhan",
+    "Asset ID":"NBTLPI523I8431",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":291,
+    "Employee Code":"E2964",
+    "Name":"Pragya Tomer",
+    "Asset ID":"RLP07348",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":292,
+    "Employee Code":"E2965",
+    "Name":"Sanjana Gautam",
+    "Asset ID":"RLP09574",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":293,
+    "Employee Code":"E2966",
+    "Name":"Nitin Singh Negi",
+    "Asset ID":"5CD8293FG9",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":294,
+    "Employee Code":"E3774",
+    "Name":"Chilukoti Sri Teja",
+    "Asset ID":"NBTLPi524B8856",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":295,
+    "Employee Code":"E2970",
+    "Name":"Swati Bharti Ranjan",
+    "Asset ID":"RLP04061",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":296,
+    "Employee Code":"E2977",
+    "Name":"Ashu Goswami",
+    "Asset ID":"NBTLPi523F8216",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":297,
+    "Employee Code":"E2983",
+    "Name":"Shubham Kumar",
+    "Asset ID":"NBTLPI523J8587",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":298,
+    "Employee Code":"E2985",
+    "Name":"Muskan Singh",
+    "Asset ID":"NBTLPi523B7715",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":299,
+    "Employee Code":"E2989",
+    "Name":"Shaheen Sultana",
+    "Asset ID":"RLP05912",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":300,
+    "Employee Code":"E2994",
+    "Name":"Harshad Sanjay Choudharkar",
+    "Asset ID":"NBTLPi523F8161",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":301,
+    "Employee Code":"E3009",
+    "Name":"Md Talha Siddique",
+    "Asset ID":"RLP06811",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":302,
+    "Employee Code":"E3018",
+    "Name":"Shrey Bamola",
+    "Asset ID":"NBTLPi522i7308",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":303,
+    "Employee Code":"E3030",
+    "Name":"Mansi Rautela",
+    "Asset ID":"NBTLPI524B8867",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":304,
+    "Employee Code":"E3032",
+    "Name":"Akshanthala Akhil",
+    "Asset ID":"RLP05425",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":305,
+    "Employee Code":"E3037",
+    "Name":"Shukla Vivek Shivakant",
+    "Asset ID":"RLP05820",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":306,
+    "Employee Code":"E3039",
+    "Name":"Nikhil Singh Hada",
+    "Asset ID":"C02H3339Q6L4",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":307,
+    "Employee Code":"E3043",
+    "Name":"Mamidi Ravali",
+    "Asset ID":"RLP04630",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":308,
+    "Employee Code":"E3490",
+    "Name":"Sahil Gupta",
+    "Asset ID":"NBTLPi524F9470",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":309,
+    "Employee Code":"E3055",
+    "Name":"Priyanka Sonker",
+    "Asset ID":"NBTLPI523J8645",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":310,
+    "Employee Code":"E3057",
+    "Name":"Gunjan Yadav",
+    "Asset ID":"5CG1074P09",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":311,
+    "Employee Code":"E3058",
+    "Name":"Sadiq Ashfaq Khan",
+    "Asset ID":"NBTLPi523B7751",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":312,
+    "Employee Code":"E3063",
+    "Name":"Kapil Uniyal",
+    "Asset ID":"RLP04740",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":313,
+    "Employee Code":"E3064",
+    "Name":"Shantanu",
+    "Asset ID":"RLP09027",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":314,
+    "Employee Code":"E3067",
+    "Name":"Vutikonda Ramakrishna",
+    "Asset ID":"RLP04360",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":315,
+    "Employee Code":"E3072",
+    "Name":"Tushar Kumar",
+    "Asset ID":"NBTLPi522D6709",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":317,
+    "Employee Code":"E3077",
+    "Name":"Aakash Rajesh Chauhan",
+    "Asset ID":"RLP08106",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":318,
+    "Employee Code":"E3082",
+    "Name":"Priya Bansal",
+    "Asset ID":"NBTLPi523B7717",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":319,
+    "Employee Code":"E3090",
+    "Name":"Saksham Tyagi",
+    "Asset ID":"RLP04906",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":320,
+    "Employee Code":"E3092",
+    "Name":"Abhishek Saini",
+    "Asset ID":"RLP02958",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":321,
+    "Employee Code":"E3093",
+    "Name":"Nikhil Khanna",
+    "Asset ID":"RLP04389",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":322,
+    "Employee Code":"E3094",
+    "Name":"Abdul Nayeem",
+    "Asset ID":"RLP05403",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":323,
+    "Employee Code":"E3095",
+    "Name":"Ram Singh",
+    "Asset ID":"NBTLPi521H5117",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":324,
+    "Employee Code":"E3096",
+    "Name":"Ayannsh Singh Gaur",
+    "Asset ID":"RLP03880",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":325,
+    "Employee Code":"E3102",
+    "Name":"Krishna Kanhaiya",
+    "Asset ID":"RLP05383",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":326,
+    "Employee Code":"E3107",
+    "Name":"Akanksha Trivedi",
+    "Asset ID":"RLP04181",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":327,
+    "Employee Code":"E3115",
+    "Name":"Syed Jammi Ali",
+    "Asset ID":"NBTLPi522D6627",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":328,
+    "Employee Code":"E3118",
+    "Name":"Devesh Kumar",
+    "Asset ID":"NBTLPI523J8595",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":329,
+    "Employee Code":"E3125",
+    "Name":"Shikha Mishra",
+    "Asset ID":"RLP03901",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":330,
+    "Employee Code":"E3132",
+    "Name":"Tanya Tripathi",
+    "Asset ID":"Exit ",
+    "Vendor":"Exit "
+  },
+  {
+    "S. No":331,
+    "Employee Code":"E3134",
+    "Name":"Sanskriti Jaiswal",
+    "Asset ID":"RLP04931",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":332,
+    "Employee Code":"E3138",
+    "Name":"Vijay Selvaraj",
+    "Asset ID":"RLP07279",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":333,
+    "Employee Code":"E3144",
+    "Name":"Keshav Kumar Jha",
+    "Asset ID":"NBTLPi522i7359",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":334,
+    "Employee Code":"E3151",
+    "Name":"Masan Pally Bheem Rao",
+    "Asset ID":"RLP07817",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":335,
+    "Employee Code":"E3152",
+    "Name":"Geetanjali",
+    "Asset ID":"RLP06239",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":336,
+    "Employee Code":"E3160",
+    "Name":"Farhan Khan",
+    "Asset ID":"FVFMT9ZN1WFV",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":337,
+    "Employee Code":"E3162",
+    "Name":"Imandi Surya Vamshi",
+    "Asset ID":"4TB33M2",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":338,
+    "Employee Code":"E3172",
+    "Name":"Bhumika Sharma",
+    "Asset ID":"RLP07417",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":339,
+    "Employee Code":"E3174",
+    "Name":"Dhanbir Kumar",
+    "Asset ID":"NBTLPi523F8158",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":340,
+    "Employee Code":"E3177",
+    "Name":"Ashvarya Verma",
+    "Asset ID":"YASHTRUE1487\/TTSPL2343",
+    "Vendor":"TrueTech"
+  },
+  {
+    "S. No":341,
+    "Employee Code":"E3180",
+    "Name":"Nitish Sharma",
+    "Asset ID":"NBTLPi521C4126",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":342,
+    "Employee Code":"E3181",
+    "Name":"Gauravkumar Sureshchandra Shukla",
+    "Asset ID":"RLP04905",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":343,
+    "Employee Code":"E3183",
+    "Name":"Satyam Vishwakarma",
+    "Asset ID":"NBTLPi521C7027",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":344,
+    "Employee Code":"E2579",
+    "Name":"Manish Kumar Singh",
+    "Asset ID":"CJSTM13",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":345,
+    "Employee Code":"E3188",
+    "Name":"Prince Chaudhary",
+    "Asset ID":"RLP09537",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":346,
+    "Employee Code":"E3195",
+    "Name":"Arnav Mourya",
+    "Asset ID":"NBTLPI523J8592",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":347,
+    "Employee Code":"E3202",
+    "Name":"Nidhi Roy",
+    "Asset ID":"NBTLPi523B7722",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":348,
+    "Employee Code":"E3206",
+    "Name":"Rishi Shukla",
+    "Asset ID":"C02FF906Q6L5",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":349,
+    "Employee Code":"E3208",
+    "Name":"Kavya Agarwal",
+    "Asset ID":"NBTLPi521H4890",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":350,
+    "Employee Code":"E3210",
+    "Name":"Jatin",
+    "Asset ID":"RLP01363",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":351,
+    "Employee Code":"E3212",
+    "Name":"Nadia Qureshi",
+    "Asset ID":"NBTLPI524C9043",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":352,
+    "Employee Code":"E3216",
+    "Name":"Dipanshu Bainsla",
+    "Asset ID":"NBTLPi522i7371",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":353,
+    "Employee Code":"E3217",
+    "Name":"Kashish Gaglain",
+    "Asset ID":"RLP04637",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":354,
+    "Employee Code":"E3593",
+    "Name":"Ayush Gupta",
+    "Asset ID":"Exit ",
+    "Vendor":"Exit"
+  },
+  {
+    "S. No":355,
+    "Employee Code":"E3223",
+    "Name":"Ankit",
+    "Asset ID":"RLP05401",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":356,
+    "Employee Code":"E2682",
+    "Name":"Rohit Sawhney",
+    "Asset ID":"J7JTPN3",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":357,
+    "Employee Code":"E3226",
+    "Name":"Oindri Paul",
+    "Asset ID":"NBTLPi524F9434",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":358,
+    "Employee Code":"E3234",
+    "Name":"Raghav Vaish",
+    "Asset ID":"NBTLPi522D6755",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":359,
+    "Employee Code":"E3239",
+    "Name":"Priya Singh",
+    "Asset ID":"NBTLPi523B7693",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":360,
+    "Employee Code":"E3240",
+    "Name":"Kishalay Malla Buzarbaruah",
+    "Asset ID":"RLP04597",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":361,
+    "Employee Code":"E3241",
+    "Name":"Sudhanshu Pandey",
+    "Asset ID":"RLP05682",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":362,
+    "Employee Code":"E3243",
+    "Name":"Kunal kumar",
+    "Asset ID":"RLP03813",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":363,
+    "Employee Code":"E3244",
+    "Name":"Riya Kartikee",
+    "Asset ID":"NBTLPi522i7297",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":364,
+    "Employee Code":"E3248",
+    "Name":"M Janaradhan",
+    "Asset ID":"NbtlpI723b7635",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":365,
+    "Employee Code":"E3251",
+    "Name":"Sanskriti Sharma",
+    "Asset ID":"NBTLPI523J8572",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":366,
+    "Employee Code":"E3252",
+    "Name":"M. Prasanth",
+    "Asset ID":"RLP07220",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":367,
+    "Employee Code":"E3253",
+    "Name":"Sakshi Singh",
+    "Asset ID":"RLP05577",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":368,
+    "Employee Code":"E3255",
+    "Name":"Hritika Jangra",
+    "Asset ID":"5CG1070GPX",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":369,
+    "Employee Code":"E2754",
+    "Name":"Jewellsa Gautam",
+    "Asset ID":"PF2YF2QG",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":370,
+    "Employee Code":"E3259",
+    "Name":"Reet Chandel",
+    "Asset ID":"NBTLPi522i7316",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":371,
+    "Employee Code":"E3262",
+    "Name":"Nitika Bhola",
+    "Asset ID":"RLP05604",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":372,
+    "Employee Code":"E3264",
+    "Name":"Akash Singh",
+    "Asset ID":"RLP05790",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":373,
+    "Employee Code":"E3268",
+    "Name":"Jugraj Singh",
+    "Asset ID":"NBTLPI523I8453",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":374,
+    "Employee Code":"E3272",
+    "Name":"Shweta Raj",
+    "Asset ID":"NbtlpI523d7902",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":375,
+    "Employee Code":"E3274",
+    "Name":"Umer Rashid Khan",
+    "Asset ID":"NBTLPi523B7699",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":376,
+    "Employee Code":"E3276",
+    "Name":"Pasupuleti Satya Sagar",
+    "Asset ID":"RLP08630",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":377,
+    "Employee Code":"E3277",
+    "Name":"Jatin Kapoor",
+    "Asset ID":"NBTLPi524F9436",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":378,
+    "Employee Code":"E3281",
+    "Name":"Himanshu Shukla",
+    "Asset ID":"NBTLPI523J8570",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":379,
+    "Employee Code":"E3284",
+    "Name":"Manpreet Kaur",
+    "Asset ID":"NBTLPi522i7302",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":380,
+    "Employee Code":"E3289",
+    "Name":"Karan Bhushan",
+    "Asset ID":"NBTLPi522D6661",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":381,
+    "Employee Code":"E3292",
+    "Name":"Ashnoor Singh Sikka",
+    "Asset ID":"NBTLPI523I8438",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":382,
+    "Employee Code":"E3293",
+    "Name":"Saroj Suranjan",
+    "Asset ID":"NBTLPi523B7723",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":383,
+    "Employee Code":"E3297",
+    "Name":"Ridam Kishore Jaiswal",
+    "Asset ID":"RLP05189",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":384,
+    "Employee Code":"E3301",
+    "Name":"Tanveer Tajmal",
+    "Asset ID":"RLP02298",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":385,
+    "Employee Code":"E3302",
+    "Name":"Naveenkumar K",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":386,
+    "Employee Code":"E3307",
+    "Name":"Shruti Shishodia",
+    "Asset ID":"NBTLPI524B8796",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":387,
+    "Employee Code":"E3311",
+    "Name":"Albina Shams",
+    "Asset ID":"NBTLPi523C7840",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":388,
+    "Employee Code":"E3312",
+    "Name":"Pooja Jadon",
+    "Asset ID":"RLP05837",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":389,
+    "Employee Code":"E3323",
+    "Name":"Krishnachandra Dinesh Shukla",
+    "Asset ID":"NBTLPI524F9456",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":390,
+    "Employee Code":"E3327",
+    "Name":"Madhukar Dnyandev Shinde",
+    "Asset ID":"RLP05821",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":391,
+    "Employee Code":"E3330",
+    "Name":"Jasnita Kaur Walia",
+    "Asset ID":"RLP03688",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":392,
+    "Employee Code":"E3333",
+    "Name":"Numaan Tufail Bazaz",
+    "Asset ID":"RLP07527",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":393,
+    "Employee Code":"E3339",
+    "Name":"Vegesa Sri Harshith Varma",
+    "Asset ID":"5CG7291HSY",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":394,
+    "Employee Code":"E3340",
+    "Name":"Jai Ranjan Sharma",
+    "Asset ID":"NBTLPi523F8210",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":395,
+    "Employee Code":"E3341",
+    "Name":"Leju S J",
+    "Asset ID":"RLP08147",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":396,
+    "Employee Code":"E3342",
+    "Name":"Rishi Guru R",
+    "Asset ID":"RLP05263",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":397,
+    "Employee Code":"E3347",
+    "Name":"Radhika Changulani",
+    "Asset ID":"NBTLPi522D6699",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":398,
+    "Employee Code":"E3348",
+    "Name":"Sneha Pandey",
+    "Asset ID":"NBTLPi523F8145",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":399,
+    "Employee Code":"E3352",
+    "Name":"Priyanuj Dutta",
+    "Asset ID":"RLP05493",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":400,
+    "Employee Code":"E3353",
+    "Name":"Gandu Veera Satya Manikanta",
+    "Asset ID":"FX9CGH2",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":401,
+    "Employee Code":"E3355",
+    "Name":"Shivani Tripathi",
+    "Asset ID":"RLP04619",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":402,
+    "Employee Code":"E3356",
+    "Name":"Boob Harish Kumar",
+    "Asset ID":"G2QCKC2",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":403,
+    "Employee Code":"E3358",
+    "Name":"Rishabh Mahajan",
+    "Asset ID":"RLP04185",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":404,
+    "Employee Code":"E3363",
+    "Name":"Shrasti Gupta",
+    "Asset ID":"RLP05575",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":405,
+    "Employee Code":"E3365",
+    "Name":"Rana Dev Jigneshbhai",
+    "Asset ID":"RLP04420",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":406,
+    "Employee Code":"E3367",
+    "Name":"Shafeek S",
+    "Asset ID":"RLP08085",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":407,
+    "Employee Code":"E3368",
+    "Name":"Patel Divyang Rameshbhai",
+    "Asset ID":"RLP04911",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":408,
+    "Employee Code":"E3369",
+    "Name":"Shariq Munsif",
+    "Asset ID":"NBTLPi524J9660",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":409,
+    "Employee Code":"E3371",
+    "Name":"Pathak Umangkumar Paragbhai",
+    "Asset ID":"RLP05834",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":410,
+    "Employee Code":"E3372",
+    "Name":"Amit Kumar Dwivedi",
+    "Asset ID":"NBTLPi523B7713",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":411,
+    "Employee Code":"E3380",
+    "Name":"Ajay Chopra",
+    "Asset ID":"NBTLPi524H9561",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":412,
+    "Employee Code":"E3381",
+    "Name":"Nabeel Khan",
+    "Asset ID":"NBTLPi723E8194",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":413,
+    "Employee Code":"E3384",
+    "Name":"Dhritiman Medhi",
+    "Asset ID":"NBTLPI524B8799",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":414,
+    "Employee Code":"E3388",
+    "Name":"Atharva Srivastava",
+    "Asset ID":"RLP07844",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":415,
+    "Employee Code":"E3389",
+    "Name":"Pranshu Vig",
+    "Asset ID":"RLP04560",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":416,
+    "Employee Code":"E3186",
+    "Name":"Aditya Singh",
+    "Asset ID":"V6WP2W3TFD",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":417,
+    "Employee Code":"E3393",
+    "Name":"Ashwani Kumar Mishra",
+    "Asset ID":"NBTLPI524B8838",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":418,
+    "Employee Code":"E3395",
+    "Name":"Gokul R",
+    "Asset ID":"NBTLPi723H8333",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":419,
+    "Employee Code":"E3396",
+    "Name":"Dilip Shah",
+    "Asset ID":"NBTLPI523I8441",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":420,
+    "Employee Code":"E3397",
+    "Name":"Ishant Sharma",
+    "Asset ID":"NBTLPi522i7382",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":421,
+    "Employee Code":"E3398",
+    "Name":"Purnima Soin",
+    "Asset ID":"NBTLPi521H4913",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":422,
+    "Employee Code":"E3400",
+    "Name":"Vanshika Johari",
+    "Asset ID":"RLP07346",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":423,
+    "Employee Code":"E3404",
+    "Name":"Boina Anil Kumar",
+    "Asset ID":"RLP07409",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":424,
+    "Employee Code":"E3405",
+    "Name":"Utsav Biswas",
+    "Asset ID":"NBTLPi523F8164",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":425,
+    "Employee Code":"E3524",
+    "Name":"Anuj Dhankhar",
+    "Asset ID":"1XPTPN3",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":426,
+    "Employee Code":"E3410",
+    "Name":"Komari Vijay Kumar",
+    "Asset ID":"RLP05264",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":427,
+    "Employee Code":"E3415",
+    "Name":"Dhruv Nagesh",
+    "Asset ID":"NBTLPi723E7970",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":428,
+    "Employee Code":"E3417",
+    "Name":"Deshraj Singh Dogra",
+    "Asset ID":"RLP07335",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":429,
+    "Employee Code":"E3612",
+    "Name":"Aditya Sharma",
+    "Asset ID":"5CG107440Y",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":430,
+    "Employee Code":"E1600",
+    "Name":"Sidhanth Bedi",
+    "Asset ID":"NBTLPi521L5625",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":431,
+    "Employee Code":"E3424",
+    "Name":"Mritunjay Kumar Singh",
+    "Asset ID":"PF3R79MT",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":432,
+    "Employee Code":"E3429",
+    "Name":"Uruba Fatima",
+    "Asset ID":"NBTLPi521H5244",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":433,
+    "Employee Code":"E3430",
+    "Name":"Janga Madhuri",
+    "Asset ID":"RLP02795",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":434,
+    "Employee Code":"E3431",
+    "Name":"Medha Chatterjee",
+    "Asset ID":"NBTLPi521L5619",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":435,
+    "Employee Code":"E3432",
+    "Name":"P Shiva Kumar",
+    "Asset ID":"RLP05913",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":436,
+    "Employee Code":"E3434",
+    "Name":"Zameer Khan",
+    "Asset ID":"RLP05681",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":437,
+    "Employee Code":"E3435",
+    "Name":"Saurabh Shukla",
+    "Asset ID":"RLP04182",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":438,
+    "Employee Code":"E3437",
+    "Name":"Kajal Gupta",
+    "Asset ID":"RLP05643",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":439,
+    "Employee Code":"E3441",
+    "Name":"Ayush Rishi",
+    "Asset ID":"NBTLPI520C2953",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":440,
+    "Employee Code":"E3442",
+    "Name":"Mantu Garg",
+    "Asset ID":"RLP07357",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":441,
+    "Employee Code":"E3444",
+    "Name":"Subhadeep Mukherjee",
+    "Asset ID":"RLP07364",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":442,
+    "Employee Code":"E3445",
+    "Name":"Suraj Chandrakumar Meshram",
+    "Asset ID":"RLP05760",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":443,
+    "Employee Code":"E3446",
+    "Name":"Sunny Zia",
+    "Asset ID":"NBTLPi522i7355",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":444,
+    "Employee Code":"E3448",
+    "Name":"Sambhav Misra",
+    "Asset ID":"NBTLPi522D6839",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":445,
+    "Employee Code":"E3449",
+    "Name":"Mudit Raj",
+    "Asset ID":"RLP04058",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":446,
+    "Employee Code":"E3450",
+    "Name":"Syed Kalim Ahmed",
+    "Asset ID":"NBTLPi524J9697",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":447,
+    "Employee Code":"E3453",
+    "Name":"Aditya Ranjan",
+    "Asset ID":"NBTLPi522i7315",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":448,
+    "Employee Code":"E3454",
+    "Name":"Kompelly Shyam Kumar",
+    "Asset ID":"RLP07172",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":449,
+    "Employee Code":"E3456",
+    "Name":"Soneri Mohan Madhubhai",
+    "Asset ID":"RLP02496",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":450,
+    "Employee Code":"E3457",
+    "Name":"Mohd Affan",
+    "Asset ID":"NBTLPi523B7731",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":451,
+    "Employee Code":"E3460",
+    "Name":"Khatri Chintan Navinkumar",
+    "Asset ID":"RLP05439",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":452,
+    "Employee Code":"E3461",
+    "Name":"Arjun Subedi",
+    "Asset ID":"NBTLPi522i7386",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":453,
+    "Employee Code":"E3463",
+    "Name":"Mohd Yasar Khan",
+    "Asset ID":"NBTLPi522D6681",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":454,
+    "Employee Code":"E3466",
+    "Name":"Riya Singh",
+    "Asset ID":"NBTLPi523F8215",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":455,
+    "Employee Code":"E3467",
+    "Name":"Faisal Ul Din",
+    "Asset ID":"RLP04801",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":456,
+    "Employee Code":"E3468",
+    "Name":"Muskan Agarwal",
+    "Asset ID":"NBTLPI524B8839",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":457,
+    "Employee Code":"E3469",
+    "Name":"Harivishnu Mishra",
+    "Asset ID":"NBTLPi523B7726",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":458,
+    "Employee Code":"E3470",
+    "Name":"Asif Mahmud",
+    "Asset ID":"NBTLPI524F9423",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":459,
+    "Employee Code":"E3472",
+    "Name":"Mahesh Chandra Singh Rawat",
+    "Asset ID":"NBTLPi524F9471",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":460,
+    "Employee Code":"E3474",
+    "Name":"Tanay Jat",
+    "Asset ID":"NBTLPi524F9578",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":461,
+    "Employee Code":"E3475",
+    "Name":"Abhay Singh",
+    "Asset ID":"RLP05576",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":462,
+    "Employee Code":"E3476",
+    "Name":"Aarya Yadav",
+    "Asset ID":"RLP05605",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":463,
+    "Employee Code":"E3719",
+    "Name":"Shikhar Anand Gupta",
+    "Asset ID":"9PPRPN3",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":464,
+    "Employee Code":"E3486",
+    "Name":"Dilip Mishra",
+    "Asset ID":"NBTLPi724i9632",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":465,
+    "Employee Code":"E3487",
+    "Name":"Srishti",
+    "Asset ID":"RLP01468",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":466,
+    "Employee Code":"E3488",
+    "Name":"Priya Sharma",
+    "Asset ID":"RLP01135",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":467,
+    "Employee Code":"E3489",
+    "Name":"Anshumaan Singh",
+    "Asset ID":"NBTLPI523I8440",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":468,
+    "Employee Code":"E3755",
+    "Name":"Hakim Husain",
+    "Asset ID":"PF3W8VAE",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":469,
+    "Employee Code":"E3491",
+    "Name":"Ishika Jaiswal",
+    "Asset ID":"RLP05660",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":470,
+    "Employee Code":"E3492",
+    "Name":"Debasish Borah",
+    "Asset ID":"RLP08927",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":471,
+    "Employee Code":"E3493",
+    "Name":"Md Faizan",
+    "Asset ID":"RLP04599",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":472,
+    "Employee Code":"E3494",
+    "Name":"Shivam Bhardwaj",
+    "Asset ID":"RLP01383",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":473,
+    "Employee Code":"E3779",
+    "Name":"Harshit Tiwari",
+    "Asset ID":"PF10R07382",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":474,
+    "Employee Code":"E3496",
+    "Name":"Saurabh Kumar",
+    "Asset ID":"NBTLPI524F9404",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":475,
+    "Employee Code":"E3497",
+    "Name":"Vidushi Bharti",
+    "Asset ID":"NBTLPi523B7612",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":476,
+    "Employee Code":"E3500",
+    "Name":"Maulik M Shastri",
+    "Asset ID":"RLP08796",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":477,
+    "Employee Code":"E3501",
+    "Name":"Virendra Aggarwal",
+    "Asset ID":"RLP05556",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":478,
+    "Employee Code":"E3503",
+    "Name":"Ujjwala Jaiswal",
+    "Asset ID":"NBTLPI524F9413",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":479,
+    "Employee Code":"E3504",
+    "Name":"Sheetal",
+    "Asset ID":"RLP09025",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":480,
+    "Employee Code":"E3505",
+    "Name":"Sapna Rajoria",
+    "Asset ID":"RLP09129",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":481,
+    "Employee Code":"E3506",
+    "Name":"Kirti",
+    "Asset ID":"NBTLPi523B7624",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":482,
+    "Employee Code":"E3507",
+    "Name":"Tushita Jolly",
+    "Asset ID":"NBTLPi624D9124",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":483,
+    "Employee Code":"E3511",
+    "Name":"Yashika Tomar",
+    "Asset ID":"NBTLPi523B7619",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":484,
+    "Employee Code":"E3514",
+    "Name":"Puja Kumari Gupta",
+    "Asset ID":"NBTLPi522D6825",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":485,
+    "Employee Code":"E3516",
+    "Name":"Aryan Sharma",
+    "Asset ID":"RLP05915",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":486,
+    "Employee Code":"E3519",
+    "Name":"Yashika Malhotra",
+    "Asset ID":"NBTLPI524B8906",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":487,
+    "Employee Code":"E3520",
+    "Name":"Tushar Gupta",
+    "Asset ID":"RLP07078",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":488,
+    "Employee Code":"E3521",
+    "Name":"Manju Sharma",
+    "Asset ID":"NBTLPi523A7549",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":489,
+    "Employee Code":"E3522",
+    "Name":"Mahesh Kishor",
+    "Asset ID":"NBTLPi522E6912",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":490,
+    "Employee Code":"E3523",
+    "Name":"Taniya Sharma",
+    "Asset ID":"NBTLPi521L5629",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":491,
+    "Employee Code":"E0547",
+    "Name":"Archit Mishra",
+    "Asset ID":"HJN0T0Z1G",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":492,
+    "Employee Code":"E3527",
+    "Name":"Clinse Johns",
+    "Asset ID":"RLP05880",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":493,
+    "Employee Code":"E3528",
+    "Name":"Bharat Khurana",
+    "Asset ID":"NBTLPi522D6752",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":494,
+    "Employee Code":"E3531",
+    "Name":"Prakhar Pathak",
+    "Asset ID":"NBTLPi522D6685",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":495,
+    "Employee Code":"E3536",
+    "Name":"Anshul Gupta",
+    "Asset ID":"NBTLPi724i9601",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":496,
+    "Employee Code":"E3537",
+    "Name":"Mohammed Saifuddin",
+    "Asset ID":"RLP08617",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":497,
+    "Employee Code":"E3539",
+    "Name":"Chakshita",
+    "Asset ID":"NBTLPi523B7633",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":498,
+    "Employee Code":"E1663",
+    "Name":"Harsh Kumar",
+    "Asset ID":"R9GQ4N2H6T",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":499,
+    "Employee Code":"E2758",
+    "Name":"Naman Raj",
+    "Asset ID":"WFW9NWG1",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":500,
+    "Employee Code":"E3542",
+    "Name":"Akshara Tyagi",
+    "Asset ID":"NBTLPi522i7339",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":501,
+    "Employee Code":"E3543",
+    "Name":"Shivendra Raj",
+    "Asset ID":"NBTLPI524B8802",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":502,
+    "Employee Code":"E3544",
+    "Name":"Ravi Kiran Bhattacharya",
+    "Asset ID":"NBTLPi523B7622",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":503,
+    "Employee Code":"E3545",
+    "Name":"Vegulla Manikantha",
+    "Asset ID":"RLP04617",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":504,
+    "Employee Code":"E3546",
+    "Name":"Shireen Fiza",
+    "Asset ID":"NBTLPi523A7558",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":505,
+    "Employee Code":"E3547",
+    "Name":"Mansi Ramesh Gajbe",
+    "Asset ID":"NBTLPi522D6811",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":506,
+    "Employee Code":"E3549",
+    "Name":"Vishal Arya",
+    "Asset ID":"RLP09078",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":507,
+    "Employee Code":"E3550",
+    "Name":"Pushkar Mishra",
+    "Asset ID":"NBTLPi524S9680",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":508,
+    "Employee Code":"E3551",
+    "Name":"Aastha Sharma",
+    "Asset ID":"RLP09077",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":509,
+    "Employee Code":"E3552",
+    "Name":"Shashank Shivam",
+    "Asset ID":"RLP09161",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":510,
+    "Employee Code":"E3553",
+    "Name":"Abhay Agarwal",
+    "Asset ID":"RLP09075",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":511,
+    "Employee Code":"E3555",
+    "Name":"Aayushi Sahni",
+    "Asset ID":"NBTLPi523B7784",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":512,
+    "Employee Code":"E3556",
+    "Name":"Shantanu Bhardwaj",
+    "Asset ID":"RLP07735",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":513,
+    "Employee Code":"E3557",
+    "Name":"Ritik",
+    "Asset ID":"RLP04634",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":514,
+    "Employee Code":"E3558",
+    "Name":"Juhi Kedia",
+    "Asset ID":"NBTLPi523A7530",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":515,
+    "Employee Code":"E3560",
+    "Name":"Mohan",
+    "Asset ID":"RLP04543",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":516,
+    "Employee Code":"E3562",
+    "Name":"Tanya Sahni",
+    "Asset ID":"NBTLPi522F7114",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":517,
+    "Employee Code":"E3563",
+    "Name":"Sumair Alam Khan",
+    "Asset ID":"RLP00223",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":518,
+    "Employee Code":"E3564",
+    "Name":"Sugandh Arora",
+    "Asset ID":"RLP09127",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":519,
+    "Employee Code":"E3565",
+    "Name":"Vishal Singh",
+    "Asset ID":"RLP09121",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":520,
+    "Employee Code":"E3567",
+    "Name":"Jatin Tiwari",
+    "Asset ID":"RLP09123",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":521,
+    "Employee Code":"E3568",
+    "Name":"Vinod Kumar Singh",
+    "Asset ID":"RLP09124",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":522,
+    "Employee Code":"E3570",
+    "Name":"Pragati Singh",
+    "Asset ID":"NBTLPI524E9181",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":523,
+    "Employee Code":"E3571",
+    "Name":"Harshita Khokhra",
+    "Asset ID":"NBTLPI524E9329",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":524,
+    "Employee Code":"E3572",
+    "Name":"Rahul Kumar",
+    "Asset ID":"RLP09125",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":525,
+    "Employee Code":"E3573",
+    "Name":"Muskan Kumari",
+    "Asset ID":"NBTLPi521H4885",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":526,
+    "Employee Code":"E3575",
+    "Name":"Yadama Pavan Sai Raj",
+    "Asset ID":"RLP07903",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":527,
+    "Employee Code":"E3576",
+    "Name":"Mandeep Singh",
+    "Asset ID":"RLP09539",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":528,
+    "Employee Code":"E3577",
+    "Name":"Shiwang Kumar",
+    "Asset ID":"NBTLPi522J7436",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":529,
+    "Employee Code":"E3578",
+    "Name":"Shruti Sharma",
+    "Asset ID":"FVFGMI2XQ05P",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":530,
+    "Employee Code":"E3579",
+    "Name":"Nibin Joseph Mampilly",
+    "Asset ID":"Exit ",
+    "Vendor":"Exit "
+  },
+  {
+    "S. No":531,
+    "Employee Code":"E3581",
+    "Name":"Pulkit Maheshwari",
+    "Asset ID":"NBTLPi523A7542",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":532,
+    "Employee Code":"E3583",
+    "Name":"Kajal Singh",
+    "Asset ID":"5CG106688X",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":533,
+    "Employee Code":"E3584",
+    "Name":"Sangita C P",
+    "Asset ID":"RLP08236",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":534,
+    "Employee Code":"E3585",
+    "Name":"Siddhartha Pratap Singh",
+    "Asset ID":"RLP05668",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":535,
+    "Employee Code":"E3586",
+    "Name":"Amit Singh Bhadoria",
+    "Asset ID":"NBTLPi523B7690",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":536,
+    "Employee Code":"E3587",
+    "Name":"Megha Gupta",
+    "Asset ID":"NBTLPi522F7170",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":537,
+    "Employee Code":"E3591",
+    "Name":"Prachi Priya",
+    "Asset ID":"PF14AK2F",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":538,
+    "Employee Code":"E3592",
+    "Name":"Abhishek Kumar Singh",
+    "Asset ID":"5CG1160WVP",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":539,
+    "Employee Code":"E1197",
+    "Name":"Riya Aggarwal",
+    "Asset ID":"RLP05683",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":540,
+    "Employee Code":"E3594",
+    "Name":"Neetu Verma",
+    "Asset ID":"RLP07733",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":541,
+    "Employee Code":"E3595",
+    "Name":"Sanket Bhati",
+    "Asset ID":"RLP07958",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":542,
+    "Employee Code":"E3596",
+    "Name":"Vidhi Khandelwal",
+    "Asset ID":"NBTLPi522i7405",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":543,
+    "Employee Code":"E3597",
+    "Name":"Kanchan",
+    "Asset ID":"5CG10669BV",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":544,
+    "Employee Code":"E3598",
+    "Name":"Aman Garg",
+    "Asset ID":"NBTLPI524E9228",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":545,
+    "Employee Code":"E3599",
+    "Name":"Sidrah Sagheer",
+    "Asset ID":"5CG1066LZ0",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":546,
+    "Employee Code":"E3600",
+    "Name":"Animesh Mund",
+    "Asset ID":"RLP02343",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":547,
+    "Employee Code":"E3601",
+    "Name":"Parul Gurjar",
+    "Asset ID":"RLP03358",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":548,
+    "Employee Code":"E3603",
+    "Name":"Vibhuti Kumar",
+    "Asset ID":"NBTLPi524J9661",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":549,
+    "Employee Code":"E3605",
+    "Name":"Jaspinder Singh Sahdev",
+    "Asset ID":"NBTLPI524E9355",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":550,
+    "Employee Code":"E3607",
+    "Name":"Rishabh Singh",
+    "Asset ID":"NBTLPi522A6225",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":551,
+    "Employee Code":"E3609",
+    "Name":"Kankipati Balaram",
+    "Asset ID":"RLP08088",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":552,
+    "Employee Code":"E3610",
+    "Name":"Rajesh Murjani",
+    "Asset ID":"RLP05163",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":553,
+    "Employee Code":"E3258",
+    "Name":"Yash Goniya",
+    "Asset ID":"Q46D717GYN",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":554,
+    "Employee Code":"E3613",
+    "Name":"Sahil Tiwari",
+    "Asset ID":"NBTLPi524J9699",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":555,
+    "Employee Code":"E3614",
+    "Name":"Mo Salman",
+    "Asset ID":"RLP04742",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":556,
+    "Employee Code":"E3615",
+    "Name":"Khushmeet Singh",
+    "Asset ID":"NBTLPI523I8401",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":557,
+    "Employee Code":"E3616",
+    "Name":"Suyash Shukla",
+    "Asset ID":"RLP07934",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":558,
+    "Employee Code":"E3618",
+    "Name":"Priyanka Karan",
+    "Asset ID":"RLP07332",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":559,
+    "Employee Code":"E3622",
+    "Name":"Harsh Singh",
+    "Asset ID":"RLP09076",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":560,
+    "Employee Code":"E3623",
+    "Name":"Ajit Kumar",
+    "Asset ID":"NBTLPi724J9747",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":561,
+    "Employee Code":"E3624",
+    "Name":"Aniket Dhiman",
+    "Asset ID":"NBTLPI524F9454",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":562,
+    "Employee Code":"E3625",
+    "Name":"Lochan Dhar",
+    "Asset ID":"NBTLPi524J9656",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":563,
+    "Employee Code":"E3626",
+    "Name":"Shlok Sunil Ghosalkar",
+    "Asset ID":"RLP09343",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":564,
+    "Employee Code":"E3628",
+    "Name":"Prashant Pandey",
+    "Asset ID":"5CG7350ZR7",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":565,
+    "Employee Code":"E3629",
+    "Name":"Aayush Tiwari",
+    "Asset ID":"NBTLPi522D6634",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":566,
+    "Employee Code":"E3630",
+    "Name":"Kurapati Kavya",
+    "Asset ID":"RLP06697",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":567,
+    "Employee Code":"E3632",
+    "Name":"Mansha Verma",
+    "Asset ID":"RLP08842",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":568,
+    "Employee Code":"E3633",
+    "Name":"Deepika",
+    "Asset ID":"NBTLPI523I8371",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":569,
+    "Employee Code":"E3634",
+    "Name":"Sejal",
+    "Asset ID":"NBTLPi522i7374",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":570,
+    "Employee Code":"E3635",
+    "Name":"Ananya Sharma",
+    "Asset ID":"NBTLPi522F7137",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":571,
+    "Employee Code":"E3637",
+    "Name":"Sanket Rajesh Shah",
+    "Asset ID":"RLP06311",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":572,
+    "Employee Code":"E3638",
+    "Name":"Osho Chamoli",
+    "Asset ID":"NBTLPI524E9260",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":573,
+    "Employee Code":"E3639",
+    "Name":"Rohit Prakash Padman",
+    "Asset ID":"FVFL3F2YQ6LR",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":574,
+    "Employee Code":"E3640",
+    "Name":"Rida Manzoor",
+    "Asset ID":"NBTLPi522F7146",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":575,
+    "Employee Code":"E3642",
+    "Name":"Moin Ashraf",
+    "Asset ID":"NBTLPi523C7830",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":576,
+    "Employee Code":"E3644",
+    "Name":"Anurag Srivastav",
+    "Asset ID":"5CD8328X9W",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":577,
+    "Employee Code":"E3645",
+    "Name":"Fahad Haroon Goli",
+    "Asset ID":"RLP08886",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":578,
+    "Employee Code":"E3646",
+    "Name":"Sourav Saini",
+    "Asset ID":"NBTLPi523D7938",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":579,
+    "Employee Code":"E3649",
+    "Name":"Garvita Saraswat",
+    "Asset ID":"RLP09336",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":580,
+    "Employee Code":"E3652",
+    "Name":"Priyanshi Singh",
+    "Asset ID":"5CD8071SDF",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":581,
+    "Employee Code":"E3653",
+    "Name":"Nikhil",
+    "Asset ID":"NBTLPi523D7897",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":582,
+    "Employee Code":"E3654",
+    "Name":"Chauhan Ankit Singh Ajitsingh",
+    "Asset ID":"RLP08218",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":583,
+    "Employee Code":"E3655",
+    "Name":"Radhika Pawar",
+    "Asset ID":"NBTLPi522D6708",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":584,
+    "Employee Code":"E3656",
+    "Name":"Akshat Baliyan",
+    "Asset ID":"NBTLPI524E9308",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":585,
+    "Employee Code":"E3657",
+    "Name":"Gurdeep Kaur",
+    "Asset ID":"NBTLPI524E9199",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":586,
+    "Employee Code":"E3659",
+    "Name":"Manish Lakwal",
+    "Asset ID":"RLP09432",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":587,
+    "Employee Code":"E3660",
+    "Name":"Lovish Miglani",
+    "Asset ID":"RLP01219",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":588,
+    "Employee Code":"E3661",
+    "Name":"Ritik Madan",
+    "Asset ID":"NBTLPI524E9352",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":589,
+    "Employee Code":"E3662",
+    "Name":"Praveen Kumaar",
+    "Asset ID":"RLP04748",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":590,
+    "Employee Code":"E3663",
+    "Name":"Pratyush Jaiswal",
+    "Asset ID":"NBTLPi524J9671",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":591,
+    "Employee Code":"E3665",
+    "Name":"Simran",
+    "Asset ID":"NBTLPi723E7953",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":592,
+    "Employee Code":"E3666",
+    "Name":"Sneha Pandey",
+    "Asset ID":"NBTLPi523A7586",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":593,
+    "Employee Code":"E3667",
+    "Name":"Mohammed Adnan",
+    "Asset ID":"NBTLPi524J9686",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":594,
+    "Employee Code":"E3668",
+    "Name":"Somesh Dubey",
+    "Asset ID":"NBTLPi523B7675",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":595,
+    "Employee Code":"E3669",
+    "Name":"Priyanka Kalra",
+    "Asset ID":"NBTLPi523F8099",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":596,
+    "Employee Code":"E3670",
+    "Name":"Vaibhav Rai",
+    "Asset ID":"NBTLPi523B7719",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":597,
+    "Employee Code":"E3671",
+    "Name":"Praveen Kumar",
+    "Asset ID":"RLP05874",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":598,
+    "Employee Code":"E3672",
+    "Name":"Manvi Gusain",
+    "Asset ID":"NBTLPi523F8143",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":599,
+    "Employee Code":"E3673",
+    "Name":"Niky Singh",
+    "Asset ID":"NBTLPi522D6722",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":600,
+    "Employee Code":"E3675",
+    "Name":"Nitish Kumar Paswan",
+    "Asset ID":"NBTLPi523B7665",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":601,
+    "Employee Code":"E3676",
+    "Name":"Shubhangi Pandey",
+    "Asset ID":"RLP05560",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":602,
+    "Employee Code":"E3678",
+    "Name":"Barkha Rajkumar Kandhari",
+    "Asset ID":"RLP08912",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":603,
+    "Employee Code":"E3679",
+    "Name":"Akash Singh",
+    "Asset ID":"RLP05599",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":604,
+    "Employee Code":"E3681",
+    "Name":"Ankit Sharma",
+    "Asset ID":"NBTLPi523D7925",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":605,
+    "Employee Code":"E3682",
+    "Name":"Shalini Dhiman",
+    "Asset ID":"NBTLPI524B8872",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":606,
+    "Employee Code":"E3683",
+    "Name":"Ashish Chaudhary",
+    "Asset ID":"NBTLPI524B8864",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":607,
+    "Employee Code":"E3684",
+    "Name":"Shalini Yadav",
+    "Asset ID":"NBTLPi524J9676",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":608,
+    "Employee Code":"E0948",
+    "Name":"Mayank Yadav",
+    "Asset ID":"MW9TLXTV6V",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":609,
+    "Employee Code":"E3687",
+    "Name":"Anubhuti Das",
+    "Asset ID":"RLP08129",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":610,
+    "Employee Code":"E3688",
+    "Name":"Vipin Sharma",
+    "Asset ID":"NBTLPi523B7621",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":611,
+    "Employee Code":"E3689",
+    "Name":"Rahul Arora",
+    "Asset ID":"NBTLPi521H4917",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":612,
+    "Employee Code":"E3691",
+    "Name":"Astitva Tyagi",
+    "Asset ID":"RLP09438",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":613,
+    "Employee Code":"E3692",
+    "Name":"Hammad Ahmad Khan",
+    "Asset ID":"NBTLPi522D6847",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":614,
+    "Employee Code":"E3693",
+    "Name":"Abhishek Mishra",
+    "Asset ID":"RLP07159",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":615,
+    "Employee Code":"E1482",
+    "Name":"Amar Kumar Amar",
+    "Asset ID":"DG26TV3W7P",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":616,
+    "Employee Code":"E3695",
+    "Name":"Sudharsan",
+    "Asset ID":"RLP07473",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":617,
+    "Employee Code":"E3696",
+    "Name":"Thogaru Vijay",
+    "Asset ID":"RLP09501",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":618,
+    "Employee Code":"E3697",
+    "Name":"Sudheer Kumar Yadav",
+    "Asset ID":"NBTLPi523A7589",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":619,
+    "Employee Code":"E3698",
+    "Name":"Gunisha Nagpal",
+    "Asset ID":"NBTLPi523B7724",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":620,
+    "Employee Code":"E3699",
+    "Name":"Ravi Pratap Singh Chauhan",
+    "Asset ID":"5CG8212KLQ",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":621,
+    "Employee Code":"E3701",
+    "Name":"Vinay Mangesh Tawde",
+    "Asset ID":"RLP07853",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":622,
+    "Employee Code":"E3704",
+    "Name":"Kirty Ratra",
+    "Asset ID":"RLP05525",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":623,
+    "Employee Code":"E3705",
+    "Name":"Kunal Verma",
+    "Asset ID":"RLP05430",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":624,
+    "Employee Code":"E3706",
+    "Name":"Vijay",
+    "Asset ID":"RLP03731",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":625,
+    "Employee Code":"E3707",
+    "Name":"Tharani Baskar",
+    "Asset ID":"RLP05765",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":626,
+    "Employee Code":"E3708",
+    "Name":"Ashish Sharma",
+    "Asset ID":"NBTLPi524J9684",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":627,
+    "Employee Code":"E3709",
+    "Name":"Tushar Anand",
+    "Asset ID":"NBTLPi523C7881",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":628,
+    "Employee Code":"E3711",
+    "Name":"Sachin Yadav",
+    "Asset ID":"NBTLPi523D7918",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":629,
+    "Employee Code":"E3712",
+    "Name":"Devang Jain",
+    "Asset ID":"NBTLPI524B8854",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":630,
+    "Employee Code":"E3713",
+    "Name":"Vanshika Khandelwal",
+    "Asset ID":"RLP04934",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":631,
+    "Employee Code":"E1518",
+    "Name":"Suraj Maheshwari",
+    "Asset ID":"Y0DJFR7RL4",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":632,
+    "Employee Code":"E3716",
+    "Name":"Bhawna Guleria",
+    "Asset ID":"NBTLPi522i7351",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":633,
+    "Employee Code":"E3717",
+    "Name":"Jaideep Singh",
+    "Asset ID":"NBTLPi523B7736",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":634,
+    "Employee Code":"E3718",
+    "Name":"Shivani",
+    "Asset ID":"NBTLPi522i7345",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":635,
+    "Employee Code":"E2277",
+    "Name":"Mohd Farhan",
+    "Asset ID":"QGQ6TCQQQX",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":636,
+    "Employee Code":"E3720",
+    "Name":"Shruti Khanna",
+    "Asset ID":"NBTLPi522i7307",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":637,
+    "Employee Code":"E2486",
+    "Name":"Deepak Paliwal",
+    "Asset ID":"M7C7C627RK",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":638,
+    "Employee Code":"E3723",
+    "Name":"Shruti Hinger",
+    "Asset ID":"RLP07333",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":639,
+    "Employee Code":"E2714",
+    "Name":"Ashmit",
+    "Asset ID":"Y7726QVYL9",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":640,
+    "Employee Code":"E3725",
+    "Name":"Abhirup Choudhury",
+    "Asset ID":"NBTLPI523I8372",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":641,
+    "Employee Code":"E3726",
+    "Name":"Sweety Ghosh",
+    "Asset ID":"RLP09026",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":642,
+    "Employee Code":"E3727",
+    "Name":"Akanksha Kumari",
+    "Asset ID":"RLP09538",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":643,
+    "Employee Code":"E3728",
+    "Name":"Abbas Rizvi",
+    "Asset ID":"NBTLPi524J9679",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":644,
+    "Employee Code":"E3730",
+    "Name":"Anshul Singh",
+    "Asset ID":"NBTLPi523B7701",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":645,
+    "Employee Code":"E3732",
+    "Name":"Shikha Karnatak",
+    "Asset ID":"NBTLPi523B7708",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":646,
+    "Employee Code":"E3733",
+    "Name":"Jigyasa Singh",
+    "Asset ID":"NBTLPI524B8792",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":647,
+    "Employee Code":"E3734",
+    "Name":"Ajit Kumar",
+    "Asset ID":"NBTLPi521H4938",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":648,
+    "Employee Code":"E3735",
+    "Name":"Shilin Singh",
+    "Asset ID":"NBTLPI523J8630",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":649,
+    "Employee Code":"E3736",
+    "Name":"Imran Sayyad Sayyad",
+    "Asset ID":"RLP02755",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":650,
+    "Employee Code":"E3737",
+    "Name":"Bhawna",
+    "Asset ID":"NBTLPi522F7084",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":651,
+    "Employee Code":"E3738",
+    "Name":"Qareena Shamshad",
+    "Asset ID":"NBTLPi523B7626",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":652,
+    "Employee Code":"E3739",
+    "Name":"Gummadevelly Sandeep",
+    "Asset ID":"RLP09709",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":653,
+    "Employee Code":"E3741",
+    "Name":"Sakshi Sharma",
+    "Asset ID":"NBTLPi522i7388",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":654,
+    "Employee Code":"E3743",
+    "Name":"Sonu Kumar",
+    "Asset ID":"NBTLPI523J8626",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":655,
+    "Employee Code":"E3744",
+    "Name":"Vimalkumar Kanaiyalal Sharma",
+    "Asset ID":"RLP07789",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":656,
+    "Employee Code":"E3745",
+    "Name":"Mahmadsamsadhusen Noormahmad Ansari",
+    "Asset ID":"RLP09705",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":657,
+    "Employee Code":"E3746",
+    "Name":"Ankita Rani",
+    "Asset ID":"RLP05826",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":658,
+    "Employee Code":"E3747",
+    "Name":"Harshit Negi",
+    "Asset ID":"NBTLPi521L5746",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":659,
+    "Employee Code":"E3748",
+    "Name":"Pratyaksha Dwivedi",
+    "Asset ID":"NBTLPI523J8623",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":660,
+    "Employee Code":"E3749",
+    "Name":"Pratik Somnath Chavan",
+    "Asset ID":"RLP07471",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":661,
+    "Employee Code":"E3750",
+    "Name":"Mansi Chauhan",
+    "Asset ID":"RLP09540",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":662,
+    "Employee Code":"E3751",
+    "Name":"Tushita Shekhawat",
+    "Asset ID":"RLP07898",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":663,
+    "Employee Code":"E3752",
+    "Name":"Parul Agrahari",
+    "Asset ID":"RLP07083",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":664,
+    "Employee Code":"E3753",
+    "Name":"Swati Verma",
+    "Asset ID":"NBTLPi523L7608",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":665,
+    "Employee Code":"E3754",
+    "Name":"Akshay Tikoo",
+    "Asset ID":"NBTLPi522i7304",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":666,
+    "Employee Code":"E2791",
+    "Name":"Kumar Gaurav",
+    "Asset ID":"HGY26M25R2",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":667,
+    "Employee Code":"E2599",
+    "Name":"Sanya Mona",
+    "Asset ID":"Exit ",
+    "Vendor":"EXIT"
+  },
+  {
+    "S. No":668,
+    "Employee Code":"E3757",
+    "Name":"Challa Narendra Babu",
+    "Asset ID":"RLP07322",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":669,
+    "Employee Code":"E3758",
+    "Name":"Pradum Singh",
+    "Asset ID":"5CD8419D3Y",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":670,
+    "Employee Code":"E3759",
+    "Name":"Kalukuri Avinash",
+    "Asset ID":"RLP07356",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":671,
+    "Employee Code":"E3760",
+    "Name":"Tushar Verma",
+    "Asset ID":"RLP07412",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":672,
+    "Employee Code":"E3762",
+    "Name":"Gottumukkala Sravani Reddy",
+    "Asset ID":"RLP01983",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":673,
+    "Employee Code":"E3763",
+    "Name":"Rishabh Singh",
+    "Asset ID":"NBTLPi522i7375",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":674,
+    "Employee Code":"E3764",
+    "Name":"Tejinder Singh",
+    "Asset ID":"NBTLPI524E9261",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":675,
+    "Employee Code":"E3765",
+    "Name":"Sneha Kashyap",
+    "Asset ID":"NBTLPI523I8399",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":676,
+    "Employee Code":"E3766",
+    "Name":"Aryan Chaudhary",
+    "Asset ID":"NBTLPI525D10539",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":677,
+    "Employee Code":"E3768",
+    "Name":"Ritik Shukla",
+    "Asset ID":"RLP09128",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":678,
+    "Employee Code":"E3756",
+    "Name":"Kirti Rathee",
+    "Asset ID":"NBTLPi523D7901",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":679,
+    "Employee Code":"E3770",
+    "Name":"Ishaan Sharma",
+    "Asset ID":"NBTLPi523F8206",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":680,
+    "Employee Code":"E3771",
+    "Name":"Lalit Kumar",
+    "Asset ID":"NBTLPI723L8772",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":681,
+    "Employee Code":"E3772",
+    "Name":"Ayachitula Hiranya",
+    "Asset ID":"RLP08814",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":682,
+    "Employee Code":"E0779",
+    "Name":"Shailja Anand",
+    "Asset ID":"PCIG83P0",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":683,
+    "Employee Code":"E3420",
+    "Name":"Varun Dhawan",
+    "Asset ID":"NBTLPi524H9554",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":684,
+    "Employee Code":"E3776",
+    "Name":"Shreyansh Srivastava",
+    "Asset ID":"5BHBQV2",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":685,
+    "Employee Code":"E3777",
+    "Name":"Mudem Prashanth Reddy",
+    "Asset ID":"RLP03411",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":686,
+    "Employee Code":"E3778",
+    "Name":"Abhijeet Dutta",
+    "Asset ID":"NBTLPI524E9260",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":687,
+    "Employee Code":"E3769",
+    "Name":"Sneha Sharma",
+    "Asset ID":"NBTLPI525D10540",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":688,
+    "Employee Code":"E3780",
+    "Name":"Jagriti Shandilya",
+    "Asset ID":"NBTLPi523D7946",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":689,
+    "Employee Code":"E3781",
+    "Name":"Soumitra Chaturvedi",
+    "Asset ID":"NBTLPi524J9685",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":690,
+    "Employee Code":"E3782",
+    "Name":"Karan Sharma",
+    "Asset ID":"NBTLPI524B8844",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":691,
+    "Employee Code":"E3783",
+    "Name":"Pratiyush Dubey",
+    "Asset ID":"RLP05494",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":692,
+    "Employee Code":"E3784",
+    "Name":"Deepak Agrawal",
+    "Asset ID":"NBTLPI524E9268",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":693,
+    "Employee Code":"E3785",
+    "Name":"Sahil Chauhan",
+    "Asset ID":"NBTLPi524F9414",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":694,
+    "Employee Code":"E3786",
+    "Name":"Shiksha Jha",
+    "Asset ID":"NBTLPi723C7848",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":695,
+    "Employee Code":"E3787",
+    "Name":"Nitin Yadav",
+    "Asset ID":"NBTLPi523D7924",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":696,
+    "Employee Code":"E3788",
+    "Name":"Ishaan Krishnatrey",
+    "Asset ID":"NBTLPi522G7249",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":697,
+    "Employee Code":"E3789",
+    "Name":"Nidhi Gogna",
+    "Asset ID":"RLP09159",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":698,
+    "Employee Code":"IN0204",
+    "Name":"Dharmendra Singh",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":699,
+    "Employee Code":"IN0228",
+    "Name":"Devesh Narayan Loungani",
+    "Asset ID":"H9759DN6HD",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":700,
+    "Employee Code":"IN0281",
+    "Name":"Ayushi Gupta",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":701,
+    "Employee Code":"IN0298",
+    "Name":"Priti Singh",
+    "Asset ID":"NBTLPi522F7163",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":702,
+    "Employee Code":"IN0314",
+    "Name":"Hariansh Bajpyee",
+    "Asset ID":"RLP01746",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":703,
+    "Employee Code":"IN0317",
+    "Name":"Prakhar Singh Chauhan",
+    "Asset ID":"C02H3EE4Q6L4",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":704,
+    "Employee Code":"IN0318",
+    "Name":"Sarthak Mittal",
+    "Asset ID":"FVFFL06KQ05F",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":705,
+    "Employee Code":"IN0319",
+    "Name":"Kshitiz Agarwal",
+    "Asset ID":"C02FN0DRQ6L5",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":706,
+    "Employee Code":"IN0321",
+    "Name":"Satyam Maharaj",
+    "Asset ID":"NBTLPi522D6712",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":707,
+    "Employee Code":"IN0322",
+    "Name":"Anjaneya Kumar",
+    "Asset ID":"NBTLPi523L8756",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":708,
+    "Employee Code":"IN0324",
+    "Name":"Happy Aswal",
+    "Asset ID":"NBTLPI524E9311",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":709,
+    "Employee Code":"IN0326",
+    "Name":"Shikha Sharma",
+    "Asset ID":"NBTLPi524B8860",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":710,
+    "Employee Code":"IN0327",
+    "Name":"Mohd Arham Siddiqui",
+    "Asset ID":"RLP09074",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":711,
+    "Employee Code":"IN0330",
+    "Name":"Akanksha",
+    "Asset ID":"NBTLPi523D7926",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":712,
+    "Employee Code":"IN0331",
+    "Name":"Mohd Zaid",
+    "Asset ID":"NBTLPi523C7871",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":713,
+    "Employee Code":"IN0332",
+    "Name":"Khushi Verma",
+    "Asset ID":"NBTLPI524E9297",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":714,
+    "Employee Code":"IN0333",
+    "Name":"Vansh Pradhan",
+    "Asset ID":"5CG1066GOF",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":715,
+    "Employee Code":"IN0335",
+    "Name":"Talha Naseer",
+    "Asset ID":"NBTLPi523A7590",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":716,
+    "Employee Code":"IN0337",
+    "Name":"Himas Khan",
+    "Asset ID":"5CG1071RHN",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":717,
+    "Employee Code":"IN0338",
+    "Name":"Aditya Singh",
+    "Asset ID":"Exit",
+    "Vendor":"Exit "
+  },
+  {
+    "S. No":718,
+    "Employee Code":"IN0340",
+    "Name":"Mohd Shoaib Saifi",
+    "Asset ID":"5CG1066LBF",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":719,
+    "Employee Code":"IN0342",
+    "Name":"Gulbaz Khan",
+    "Asset ID":"NBTLPi522F7083",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":720,
+    "Employee Code":"IN0343",
+    "Name":"Taufeeque Alam",
+    "Asset ID":"5CG1066M08",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":721,
+    "Employee Code":"IN0344",
+    "Name":"Santosh Singh Bani",
+    "Asset ID":"5CG1060S3S",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":722,
+    "Employee Code":"IN0345",
+    "Name":"Mohd Fahad Saifi",
+    "Asset ID":"NBTLPi523C7860",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":723,
+    "Employee Code":"IN0347",
+    "Name":"Areeba Ahmad",
+    "Asset ID":"RLP09122",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":724,
+    "Employee Code":"IN0348",
+    "Name":"Aashika Jain",
+    "Asset ID":"RLP07499",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":725,
+    "Employee Code":"IN0349",
+    "Name":"Shreya Mishra",
+    "Asset ID":"NBTLPi522i7346",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":726,
+    "Employee Code":"IN0350",
+    "Name":"Abdul Bari",
+    "Asset ID":"NBTLPi523F8077",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":727,
+    "Employee Code":"IN0353",
+    "Name":"Raj Bajaj",
+    "Asset ID":"NBTLPi522D6662",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":728,
+    "Employee Code":"IN0354",
+    "Name":"Uday Nautiyal",
+    "Asset ID":"NBTLPi523L8758",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":729,
+    "Employee Code":"IN0356",
+    "Name":"Parth Pratik",
+    "Asset ID":"RLP04765",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":730,
+    "Employee Code":"IN0358",
+    "Name":"Shristi Singh",
+    "Asset ID":"5CG11610F7",
+    "Vendor":"Chairyan"
+  },
+  {
+    "S. No":731,
+    "Employee Code":"IN0359",
+    "Name":"Shubham Arya",
+    "Asset ID":"NBTLPi523B7697",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":732,
+    "Employee Code":"IN0360",
+    "Name":"Monika",
+    "Asset ID":"NBTLPi522i7408",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":733,
+    "Employee Code":"IN0361",
+    "Name":"Amit Yadav",
+    "Asset ID":"RLP09160",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":734,
+    "Employee Code":"IN0363",
+    "Name":"Riya",
+    "Asset ID":"Exit",
+    "Vendor":"Exit"
+  },
+  {
+    "S. No":735,
+    "Employee Code":"IN0364",
+    "Name":"Mayank Rawat",
+    "Asset ID":"Exit",
+    "Vendor":"Exit "
+  },
+  {
+    "S. No":736,
+    "Employee Code":"IN0365",
+    "Name":"Zuber Khan Saifi",
+    "Asset ID":"NBTLPi523F8095",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":737,
+    "Employee Code":"IN0366",
+    "Name":"Md Danish Khan",
+    "Asset ID":"NBTLPI524E9322",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":738,
+    "Employee Code":"IN0368",
+    "Name":"Vinay Sankhwar",
+    "Asset ID":"NBTLPi523D7920",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":739,
+    "Employee Code":"IN0369",
+    "Name":"Abhishek Singh",
+    "Asset ID":"NBTLPi524J9657",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":740,
+    "Employee Code":"IN0371",
+    "Name":"Lakshay Chhabra",
+    "Asset ID":"NBTLPi523J8582",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":741,
+    "Employee Code":"IN0372",
+    "Name":"Piyush Rastogi",
+    "Asset ID":"NBTLPi522i7322",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":742,
+    "Employee Code":"IN0374",
+    "Name":"Khushi Kumari",
+    "Asset ID":"NBTLPi523C7841",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":743,
+    "Employee Code":"IN0375",
+    "Name":"Sahil Sharma",
+    "Asset ID":"NBTLPi522D6632",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":744,
+    "Employee Code":"IN0376",
+    "Name":"Mayank Soni",
+    "Asset ID":"RLP09335",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":745,
+    "Employee Code":"IN0377",
+    "Name":"Gudiya Kumari",
+    "Asset ID":"NBTLPi523B7618",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":746,
+    "Employee Code":"IN0379",
+    "Name":"Pranay Kumar Kanojia",
+    "Asset ID":"RLP05495",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":747,
+    "Employee Code":"IN0380",
+    "Name":"Amrit Rehal",
+    "Asset ID":"RLP05694",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":748,
+    "Employee Code":"IN0381",
+    "Name":"Shreesha Gautham",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":749,
+    "Employee Code":"TP0026",
+    "Name":"Manya Gupta",
+    "Asset ID":"NBTLPi522A6230",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":750,
+    "Employee Code":"TP0027",
+    "Name":"Mohit Kumar",
+    "Asset ID":"NBTLPi522i7349",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":751,
+    "Employee Code":"TP0030",
+    "Name":"Rohit\u00a0Sahu",
+    "Asset ID":"NBTLPi522F7147",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":752,
+    "Employee Code":"IN0383",
+    "Name":"Rudra Pratap Singh",
+    "Asset ID":"NBTLPi524B8879",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":753,
+    "Employee Code":"IN0384",
+    "Name":"Rimik Sahay",
+    "Asset ID":"NBTLPi523L7603",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":754,
+    "Employee Code":"IN0385",
+    "Name":"Ritika",
+    "Asset ID":"RLP05389",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":755,
+    "Employee Code":"IN0386",
+    "Name":"Saifia Anwar",
+    "Asset ID":"NBTLPi523B7718",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":756,
+    "Employee Code":"IN0388",
+    "Name":"Law Kumar",
+    "Asset ID":"RLP05580",
+    "Vendor":"RLP"
+  },
+  {
+    "S. No":757,
+    "Employee Code":"NG004",
+    "Name":"Michael Margaret Nicholas",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":758,
+    "Employee Code":"NG005",
+    "Name":"Maduka Bryan",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":759,
+    "Employee Code":"NP002",
+    "Name":"Ravi Ray",
+    "Asset ID":"NBTLPi524F9438",
+    "Vendor":"NBT"
+  },
+  {
+    "S. No":760,
+    "Employee Code":"NG027",
+    "Name":"Abimbola Helen Daramola",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":761,
+    "Employee Code":"NG028",
+    "Name":"Ndukwu Hope Chinonso",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":762,
+    "Employee Code":"NG029",
+    "Name":"Amadie King George",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":763,
+    "Employee Code":"NP004",
+    "Name":"Ranjana Pokharel Rayamajhi",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":764,
+    "Employee Code":"UK005",
+    "Name":"Anurag Kamandula",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":765,
+    "Employee Code":"NG031",
+    "Name":"Love Dooshima Innocent",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":766,
+    "Employee Code":"NG032",
+    "Name":"Egbewunmi Obasanjo Rotimi",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":767,
+    "Employee Code":"NP005",
+    "Name":"Rasmita Senapati",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":768,
+    "Employee Code":"NP007",
+    "Name":"Siona Thapa Magar",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":769,
+    "Employee Code":"NG035",
+    "Name":"Joy Ihaza",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":770,
+    "Employee Code":"NP009",
+    "Name":"Santoshi Kharel",
+    "Asset ID":"FG3ZCD2",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":771,
+    "Employee Code":"SL001",
+    "Name":"Thilina Mahendralal Rajapakse",
+    "Asset ID":"PF55FK03",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":772,
+    "Employee Code":"SL004",
+    "Name":"Mohamed Faizer Fathima Safra",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":773,
+    "Employee Code":"NP012",
+    "Name":"Anisha Shrestha",
+    "Asset ID":"DM0ZVD2",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":774,
+    "Employee Code":"NG036",
+    "Name":"Gbenga Kunle Fasunlua",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":775,
+    "Employee Code":"BG001",
+    "Name":"Farzana Hossain Arin",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":776,
+    "Employee Code":"UAE001",
+    "Name":"Mostafa Essa Ahmed Abdelghaffar Hassan",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":777,
+    "Employee Code":"TK001",
+    "Name":"Ali Can \u00c7IRAK",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":778,
+    "Employee Code":"GH001",
+    "Name":"Seth Cobbinah",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":779,
+    "Employee Code":"BG002",
+    "Name":"Tamhid Hassan",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":780,
+    "Employee Code":"NG037",
+    "Name":"Stanley Chukwuemeka Awambu",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":781,
+    "Employee Code":"KN001",
+    "Name":"Hellen Muthoni Njoroge",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":782,
+    "Employee Code":"UK007",
+    "Name":"Roisin Pelley",
+    "Asset ID":"PMW123HN",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":783,
+    "Employee Code":"BG003",
+    "Name":"MD. Salman Rahman",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":784,
+    "Employee Code":"NP015",
+    "Name":"Sanskriti Bc",
+    "Asset ID":"6VXDQ92",
+    "Vendor":"Company Asset"
+  },
+  {
+    "S. No":785,
+    "Employee Code":"NG038",
+    "Name":"Onawale Oluwatoyin Folashade",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":786,
+    "Employee Code":"NG039",
+    "Name":"Ilamosi Okwegwa",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":787,
+    "Employee Code":"NP016",
+    "Name":"Mahesh Thapa",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":788,
+    "Employee Code":"NG040",
+    "Name":"Nsikan Esther Edemeka",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":789,
+    "Employee Code":"NG041",
+    "Name":"Emmanuel Abiodun Ikhidero",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":790,
+    "Employee Code":"NG042",
+    "Name":"Mofeyintoluwa Ayoola Akanbi",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":791,
+    "Employee Code":"NG043",
+    "Name":"Prosper Ifeanyi Ezechukwu",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  },
+  {
+    "S. No":792,
+    "Employee Code":"NG044",
+    "Name":"Othniel Ireoluwa Omowonuola",
+    "Asset ID":"Personal Laptop",
+    "Vendor":"Personal Laptop"
+  }
+]

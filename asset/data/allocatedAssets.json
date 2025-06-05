@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Vaibhav Mehta",
+    "empCode": "E0173",
+    "department": "Uniops",
+    "onboardingDate": "04-06-2025",
+    "uniqueId": "Rlp10019",
+    "assetType": "Rental"
+  },
+  {
+    "name": "Dinesh Kumar Walia",
+    "empCode": "E0277",
+    "department": "Uniops",
+    "onboardingDate": "04-06-2025",
+    "uniqueId": "RLP10023",
+    "assetType": "Rental"
+  },
+  {
+    "name": "Sahil Goyal",
+    "empCode": "E0148",
+    "department": "B to C",
+    "onboardingDate": "04-06-2025",
+    "uniqueId": "CG4575332",
+    "assetType": "Fixed"
+  },
+  {
+    "name": "Vaibhav Mehta",
+    "empCode": "E0173",
+    "department": "International office",
+    "onboardingDate": "04-06-2025",
+    "uniqueId": "Rlp10019",
+    "assetType": "Rental",
+    "Asset Id": "Rlp10019"
+  },
+  {
+    "name": "Mohd Mushahid Raza Khan",
+    "empCode": "E0118",
+    "department": "Uniops",
+    "onboardingDate": "04-06-2025",
+    "uniqueId": "CG5200289",
+    "assetType": "Fixed",
+    "Asset Id": "CG5200289"
+  }
+]
