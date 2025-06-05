@@ -2,6 +2,7 @@
   "expo": {
     "name": "AssetManagement",
     "slug": "assetmanagement",
+    "owner": "dishi890",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
