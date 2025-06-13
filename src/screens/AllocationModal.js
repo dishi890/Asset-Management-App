@@ -49,6 +49,7 @@ const AllocationModal = ({ visible, onClose, onOpenRevoke, onAllocated }) => {
   }, [selectedEmpCode]);
 
   const handleSubmit = async () => {
+    console.log("1")
     if (!form.name || !selectedEmpCode || !selectedDepartment || !uniqueId || !assetType || !form.onboardingDate) {
       Alert.alert('Error', 'Please fill in all fields');
       return;
@@ -65,6 +66,7 @@ const AllocationModal = ({ visible, onClose, onOpenRevoke, onAllocated }) => {
     };
 
     try {
+      
       setConfirmationText('✅ Asset allocated successfully');
       onAllocated && onAllocated(payload); // pass the payload to parent
 

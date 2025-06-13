@@ -13,6 +13,8 @@ import vendorData from '../assets/data/vendorList.json';
 import fixedAssets from '../assets/data/fixedAssets.json';
 import rentalAssets from '../assets/data/rentalAssets.json';
 
+
+
 const InStockScreen = ({ visible, onClose, allocatedData = [] }) => {
   const [tab, setTab] = useState('inStock');
   const [searchQuery, setSearchQuery] = useState('');

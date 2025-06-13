@@ -1,8 +1,20 @@
-import React from 'react'
-import ContentLanding from './ContentLanding'
+import React from 'react';
+import { View, Text, StyleSheet } from 'react-native';
+import ContentLanding from './ContentLanding';
 
 const Landing = () => {
-  return <ContentLanding />
-}
+  return (
+    <View style={styles.container}>
+      <ContentLanding />
+    </View>
+  );
+};
 
-export default Landing
+export default Landing;
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+});

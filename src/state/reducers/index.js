@@ -1,13 +1,9 @@
-import {combineReducers} from "redux";
-import qrcodeReducer from "./qrcodeReducer";
-import loginStateReducer from "./loginStateReducer";
-import userNameReducer from "./userNameReducer";
-import assetFormReducer from "./assetFormReducer";
+import { combineReducers } from 'redux';
+import assetFormReducer from './assetFormReducer'; // ✅ Make sure this path is right
 
-const reducers = combineReducers({
-    qrcode:qrcodeReducer,
-    loginState:loginStateReducer,
-    userName:userNameReducer,
-    assetForm:assetFormReducer
-})
-export default reducers 
+const rootReducer = combineReducers({
+  assetForm: assetFormReducer,
+});
+
+export default rootReducer;
+

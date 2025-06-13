@@ -1,4 +1,5 @@
-// ✅ Final Home.js with refreshKey integration and correct allocatedData reload
+
+// ✅ Final Home.js with Upload Modal Integration + Done Confirmation
 import React, { useState } from 'react';
 import {
   View,
@@ -9,7 +10,8 @@ import {
   Modal,
   Dimensions,
   ScrollView,
-  Animated
+  Animated,
+  Alert
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { PieChart } from 'react-native-chart-kit';
@@ -18,6 +20,7 @@ import rentalAssets from '../assets/data/rentalAssets.json';
 import AllocationModal from './AllocationModal';
 import RevokeAssetScreen from './RevokeAssetScreen';
 import InStockScreen from './InStockScreen';
+import AddNewAssetScreen from './AddAsset'; // 🔁 Upload Modal
 
 const screenWidth = Dimensions.get('window').width;
 
@@ -27,6 +30,7 @@ const Home = () => {
   const [allocationVisible, setAllocationVisible] = useState(false);
   const [revokeVisible, setRevokeVisible] = useState(false);
   const [inStockVisible, setInStockVisible] = useState(false);
+  const [uploadVisible, setUploadVisible] = useState(false);
   const [allocatedData, setAllocatedData] = useState([]);
 
   const reloadAllocatedAssets = (newAsset) => {
@@ -47,6 +51,11 @@ const Home = () => {
       <Text style={styles.assetText}>Warranty: {item.Warranty || 'N/A'}</Text>
     </View>
   );
+
+  const handleUploadDone = () => {
+    setUploadVisible(false);
+    Alert.alert('✅ Success', 'Assets uploaded successfully.');
+  };
 
   return (
     <View style={{ flex: 1 }}>
@@ -97,6 +106,7 @@ const Home = () => {
         </TouchableOpacity>
       </ScrollView>
 
+      {/* Floating Action Buttons */}
       <Animated.View style={[styles.floatingButton, { bottom: 25, right: 25 }]}> 
         <TouchableOpacity onPress={() => setAllocationVisible(true)}>
           <Ionicons name="add-circle" size={60} color="#009933" />
@@ -115,6 +125,13 @@ const Home = () => {
         </TouchableOpacity>
       </Animated.View>
 
+      <Animated.View style={[styles.floatingButton, { bottom: 250, right: 25 }]}> 
+        <TouchableOpacity onPress={() => setUploadVisible(true)}>
+          <Ionicons name="document-attach-outline" size={34} color="#3F51B5" />
+        </TouchableOpacity>
+      </Animated.View>
+
+      {/* Modals */}
       <Modal visible={modalVisible} animationType="slide">
         <View style={styles.modalContainer}>
           <TouchableOpacity
@@ -132,6 +149,31 @@ const Home = () => {
             keyExtractor={(item, index) => index.toString()}
             renderItem={renderItem}
           />
+        </View>
+      </Modal>
+
+      <Modal
+        visible={uploadVisible}
+        animationType="slide"
+        transparent={true}
+        onRequestClose={() => setUploadVisible(false)}
+      >
+        <View style={styles.uploadModalOverlay}>
+          <View style={styles.uploadModalContent}>
+            <AddNewAssetScreen />
+            <TouchableOpacity
+              style={styles.uploadCloseButton}
+              onPress={() => setUploadVisible(false)}
+            >
+              <Ionicons name="close-circle" size={28} color="#fff" />
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={[styles.button, { marginTop: 16 }]}
+              onPress={handleUploadDone}
+            >
+              <Text style={styles.buttonText}>Done</Text>
+            </TouchableOpacity>
+          </View>
         </View>
       </Modal>
 
@@ -226,7 +268,30 @@ const styles = StyleSheet.create({
     borderRadius: 50,
     elevation: 5,
     zIndex: 10
-  }
+  },
+  uploadModalOverlay: {
+    flex: 1,
+    backgroundColor: '#000000aa',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  uploadModalContent: {
+    width: '92%',
+    backgroundColor: '#fff',
+    borderRadius: 16,
+    padding: 16,
+    elevation: 10,
+    maxHeight: 460,
+  },
+  uploadCloseButton: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    backgroundColor: '#3F51B5',
+    borderRadius: 50,
+    padding: 4,
+  },
 });
 
 export default Home;
+

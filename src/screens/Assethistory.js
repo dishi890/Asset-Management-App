@@ -6,8 +6,8 @@ import {
   StyleSheet,
   Animated,
   Easing,
-  Keyboard,
-  Modal
+  Modal,
+  ScrollView
 } from 'react-native';
 import assetData from '../assets/data/assetList_cleaned.json';
 import { Ionicons } from '@expo/vector-icons';
@@ -17,6 +17,7 @@ const AssetHistory = () => {
   const [result, setResult] = useState(null);
   const [fadeAnim] = useState(new Animated.Value(0));
   const [modalVisible, setModalVisible] = useState(false);
+  const [history, setHistory] = useState([]);
 
   const handleSearch = (text) => {
     setQuery(text);
@@ -37,6 +38,14 @@ const AssetHistory = () => {
         easing: Easing.out(Easing.ease),
         useNativeDriver: true
       }).start();
+
+      // Add to history if not already present (based on Asset ID)
+      const isAlreadyInHistory = history.some(
+        (item) => item["Asset ID"] === matched["Asset ID"]
+      );
+      if (!isAlreadyInHistory) {
+        setHistory([matched, ...history]);
+      }
     } else {
       setResult(null);
     }
@@ -55,6 +64,26 @@ const AssetHistory = () => {
       {!result && query !== '' && (
         <Text style={styles.noResult}>No matching asset found.</Text>
       )}
+
+      <ScrollView style={styles.historyList}>
+        {history.map((item, index) => (
+          <View key={index} style={styles.historyCard}>
+            <Ionicons
+              name="laptop-outline"
+              size={24}
+              color="#009933"
+              style={{ marginRight: 10 }}
+            />
+            <View>
+              <Text style={styles.label}>Asset ID: <Text style={styles.value}>{item["Asset ID"]}</Text></Text>
+              <Text style={styles.label}>Name: <Text style={styles.value}>{item["Name"]}</Text></Text>
+              <Text style={styles.label}>Type: <Text style={styles.value}>
+                {item["Asset ID"]?.toLowerCase().includes('rental') ? 'Rental' : 'Fixed'}
+              </Text></Text>
+            </View>
+          </View>
+        ))}
+      </ScrollView>
 
       <Modal visible={modalVisible} transparent animationType="slide">
         <View style={styles.modalBackground}>
@@ -96,6 +125,29 @@ const styles = StyleSheet.create({
     fontStyle: 'italic',
     marginTop: 10
   },
+  historyList: {
+    marginTop: 20
+  },
+  historyCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#fff',
+    padding: 15,
+    borderRadius: 12,
+    marginBottom: 12,
+    shadowColor: '#000',
+    shadowOpacity: 0.1,
+    shadowRadius: 3,
+    elevation: 3
+  },
+  label: {
+    fontWeight: 'bold',
+    fontSize: 14
+  },
+  value: {
+    fontWeight: 'normal',
+    color: '#444'
+  },
   modalBackground: {
     flex: 1,
     backgroundColor: 'rgba(0,0,0,0.5)',
@@ -111,14 +163,6 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 5,
     elevation: 10
-  },
-  label: {
-    fontWeight: 'bold',
-    marginTop: 10
-  },
-  value: {
-    fontWeight: 'normal',
-    color: '#444'
   },
   closeBtn: {
     marginTop: 20,
