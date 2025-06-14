@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/js/main.ef04a4dc.js",
+    "static/js/583.3342364b.js": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/js/583.3342364b.js",
+    "static/media/MaterialCommunityIcons.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/Entypo.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Feather.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "static/media/tick.png": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/tick.32cb45231ee117d499e2.png",
+    "static/media/arrow-up.png": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/arrow-up.0b0d1af9a5b464b93fde.png",
+    "static/media/close.png": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/close.b65df71afd6c8e422619.png",
+    "static/media/arrow-down.png": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/media/arrow-down.772a5382a31866c9198e.png",
+    "index.html": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/index.html",
+    "manifest.json": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/manifest.json",
+    "serve.json": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/serve.json",
+    "main.ef04a4dc.js.map": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/js/main.ef04a4dc.js.map",
+    "583.3342364b.js.map": "%3Cyour-username%3E.github.io/%3Crepo-name%3E/static/js/583.3342364b.js.map"
+  },
+  "entrypoints": [
+    "static/js/583.3342364b.js",
+    "static/js/main.ef04a4dc.js"
+  ]
+}
